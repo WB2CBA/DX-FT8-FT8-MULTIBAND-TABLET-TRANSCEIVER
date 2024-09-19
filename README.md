@@ -1,4 +1,4 @@
-# DX-FT8---FT8-MULTIBAND-TABLET-TRANSCEIVER
+# DX-FT8  A MULTIBAND FT8 DIGITAL MODES TABLET TRANSCEIVER 
 
 ![IMG_5568](https://github.com/user-attachments/assets/4db14f59-7d77-43b2-ba8d-116dba856e28)
 
@@ -61,6 +61,9 @@ DX FT8 Transceiver has two RF Power Output Selection, LOW RF POWER and HIGH RF P
 DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. I can't thank enough Charley for his excellent GUI FT8 Firmware and his perseverance to create a standalone FT8 TABLET Transceiver.
 
 It's a pleasure for me to collaborate with Charley,W5BAA, on hardware side, RF design and PCB design of DX FT8 Transceiver.
+
+
+
 
 
 
