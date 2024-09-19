@@ -24,18 +24,26 @@ Here are some highlights on DX FT8 Specifications:
 
 -	DX FT8 Transceiver operates on 5 HF bands. These bands are:
 1 – 20m (14.074 MHz)
+
 2- 17m (18.100 MHz)
+
 3- 15m (21.074 MHz)
+
 4- 12m (24.915 MHz)
+
 5- 10m (28.074 MHz)
 
 DX FT8 Transceiver has two RF Power Output Selection, HIGH RF POWER and LOW RF POWER which can be selected with the RF POWER Slide switch on the side of the transceiver.
 
 BAND	LOW RF POWER	HIGH RF POWER
 20m	380mW	823mW
+
 17m	354mW	762mW
+
 15m	314mW	654mW
+
 12m	259mW	520mW
+
 10m	231mW	445mW
 
 -	DX FT8 Transceiver can operate from 5V USB power bank or any 500mA capacity USB power source or by using DC barrel Connector can be powered from 7V to 15V external power supply. A power supply source can be selected with DC POWER SELECT slide switch located in one side of the Transceiver. 
