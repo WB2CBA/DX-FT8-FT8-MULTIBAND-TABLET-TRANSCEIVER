@@ -37,6 +37,7 @@ Here are some highlights on DX FT8 Specifications:
 5- 10m (28.074 MHz)
 
 DX FT8 Transceiver has two RF Power Output Selection, LOW RF POWER and HIGH RF POWER which can be selected with the RF POWER Slide switch on the side of the transceiver.
+
 BAND   LOW PWR   HIGH PWR
 
 20m	   380mW	       823mW
