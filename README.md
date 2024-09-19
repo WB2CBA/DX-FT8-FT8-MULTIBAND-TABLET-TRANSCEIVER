@@ -38,8 +38,6 @@ Here are some highlights on DX FT8 Specifications:
 
 DX FT8 Transceiver has two RF Power Output Selection, LOW RF POWER and HIGH RF POWER which can be selected with the RF POWER Slide switch on the side of the transceiver.
 
-BAND   LOW PWR   HIGH PWR
-
 20m	   380mW	       823mW
 
 17m	   354mW	       762mW
@@ -50,21 +48,19 @@ BAND   LOW PWR   HIGH PWR
 
 10m	   231mW	       445mW
 
--	DX FT8 Transceiver can operate from 5V USB power bank or any 500mA capacity USB power source or by using DC barrel Connector can be powered from 7V to 15V external power supply. A power supply source can be selected with DC POWER SELECT slide switch located on side of the Transceiver. 
+-	DX FT8 Transceiver can operate from 5V USB power bank or any 500mA capacity USB power source or by using DC barrel Connector can be powered from 7V to 15V external power supply. A power supply source can be selected with DC POWER SELECT slide switch located on the side of the Transceiver. 
 
--	DX FT8 TRANSCEIVER uses an unconventional RF power Amplifier consisting of a TTL octal buffer IC and step up RF Transformer. There is no MOSFET PA transistors. This creates an extremely resilient RF PA for failure due to high SWR or no antenna accidental operations.  This is an advantage for portable operations as antenna conditions can vary.
+-	DX FT8 TRANSCEIVER uses an unconventional RF power Amplifier consisting of a TTL octal buffer IC and step up RF Transformer. There is no conventional MOSFET PA transistors. This creates an extremely resilient RF PA for failure due to high SWR or no antenna accidental operations.  This is an advantage for portable operations as antenna conditions can vary.
 
-
-
--	DX FT8 TRANSCEIVER incorporates a TAYLOE detector based Qudarature Sampling detector receiver which outputs an I and Q phase output to STM32F746 DISCO board which generates through Upper Side Band SSB receive signal.
+-	DX FT8 TRANSCEIVER incorporates a TAYLOE detector based Qudarature Sampling detector receiver with a high gain RF Preamplifier which outputs an I and Q phase output to STM32F746 DISCO board which generates true Upper Side Band (USB) SSB receive signal. 
 
 -	A short video of DX FT8 in action:
   https://www.youtube.com/watch?v=8b2WOxESAVU
  	
 
-DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. I can't thank enough Charley for his excellent GUI FT8 Firmware and his idea and perseverance to create a standalone FT8 TABLET Transceiver.
+DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. I can't thank enough Charley for his excellent GUI FT8 Firmware and his perseverance to create a standalone FT8 TABLET Transceiver.
 
-It's a pleasure for me to collaborate with Charley,W5BAA, on hardware side, RF design and PCB designs of DX FT8.
+It's a pleasure for me to collaborate with Charley,W5BAA, on hardware side, RF design and PCB design of DX FT8 Transceiver.
 
 
 
