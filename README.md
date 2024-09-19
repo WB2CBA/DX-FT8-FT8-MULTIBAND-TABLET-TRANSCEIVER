@@ -23,6 +23,7 @@ Here are some highlights on DX FT8 Specifications:
 -	DX FT8 Transceiver RF Board plugs into STM32F746 DISCO evaluation board to form the DX FT8 transceiver. 
 
 -	DX FT8 Transceiver operates on 5 HF bands. These bands are:
+  
 1 – 20m (14.074 MHz)
 
 2- 17m (18.100 MHz)
