@@ -54,8 +54,10 @@ DX FT8 Transceiver has two RF Power Output Selection, HIGH RF POWER and LOW RF P
 
 -	DX FT8 TRANSCEIVER incorporates a TAYLOE detector based Qudarature Sampling detector receiver which outputs an I and Q phase output to STM32F746 DISCO board which generates through Upper Side Band SSB receive signal.
 
-DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. I can't thank enough Charley for his excellent GUI FT8 Firmware and his idea and perseverence to create a standalone FT8 TABLET Transceiver.
+DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. I can't thank enough Charley for his excellent GUI FT8 Firmware and his idea and perseverance to create a standalone FT8 TABLET Transceiver.
 
 It's a pleasure for me to collaborate with Charley,W5BAA, on hardware side, RF design and PCB designs of DX FT8.
+
+
 
 
