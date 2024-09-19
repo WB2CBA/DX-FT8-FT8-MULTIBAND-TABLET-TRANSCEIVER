@@ -46,7 +46,7 @@ DX FT8 Transceiver has two RF Power Output Selection, HIGH RF POWER and LOW RF P
 
 10m	   231mW	       445mW
 
--	DX FT8 Transceiver can operate from 5V USB power bank or any 500mA capacity USB power source or by using DC barrel Connector can be powered from 7V to 15V external power supply. A power supply source can be selected with DC POWER SELECT slide switch located in one side of the Transceiver. 
+-	DX FT8 Transceiver can operate from 5V USB power bank or any 500mA capacity USB power source or by using DC barrel Connector can be powered from 7V to 15V external power supply. A power supply source can be selected with DC POWER SELECT slide switch located on side of the Transceiver. 
 
 -	DX FT8 TRANSCEIVER uses an unconventional RF power Amplifier consisting of a TTL octal buffer IC and step up RF Transformer. There is no MOSFET PA transistors. This creates an extremely resilient RF PA for failure due to high SWR or no antenna accidental operations.  This is an advantage for portable operations as antenna conditions can vary.
 
