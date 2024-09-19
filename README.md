@@ -50,6 +50,12 @@ DX FT8 Transceiver has two RF Power Output Selection, HIGH RF POWER and LOW RF P
 
 -	DX FT8 TRANSCEIVER uses an unconventional RF power Amplifier consisting of a TTL octal buffer IC and step up RF Transformer. There is no MOSFET PA transistors. This creates an extremely resilient RF PA for failure due to high SWR or no antenna accidental operations.  This is an advantage for portable operations as antenna conditions can vary.
 
+
+
 -	DX FT8 TRANSCEIVER incorporates a TAYLOE detector based Qudarature Sampling detector receiver which outputs an I and Q phase output to STM32F746 DISCO board which generates through Upper Side Band SSB receive signal.
+
+DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. I can't thank enough Charley for his excellent GUI FT8 Firmware and his idea and perseverence to create a satndalone FT8 TABLET Transceiver.
+
+It's a pleasure for me to collaborate with him on the hardware side, RF design and PCB designs of DX FT8.
 
 
