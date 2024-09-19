@@ -4,9 +4,11 @@
 
 DX FT8 is a FT8 Digital mode capable HF QRPp GUI (Graphical User Interface) based multiband Transceiver.  
 
-Main aim of DX FT8 TRX Project is to create a highly portable self-contained FT8 GUI Transceiver. Self-contained aim is to create User interface plus Multiband transceiver in the same unit. 
+DX FT8 is abreviation for Digital Xceiver for FT8. 
 
-This creates an advantage of carrying one GUI based TRX unit and no longer need to carry a PC or a laptop or tablet for GUI interface operation for FT8 with a classic transceiver. 
+Main aim of DX FT8 TRX Project is to create a highly portable stand-alone FT8 GUI Transceiver. Stand-alone aim is to create User interface for FT8 digital mode plus Multiband transceiver in the same unit. 
+
+This creates an advantage of carrying one GUI based FT8 operation capable Transceiver unit and no longer need to carry a PC or a laptop or tablet for GUI interface operation for FT8 with a classic transceiver. 
 
 This approach is quite appealing for smaller and lighter setups for backpacking for SOTA or POTA activations or as a travel transceiver with FT8.  
 
@@ -16,7 +18,7 @@ Here are some highlights on DX FT8 Specifications:
 
 -	STM32F746NGH6 Arm® Cortex® core-based microcontroller with 1 Mbyte of Flash memory and 340 Kbytes of RAM, in BGA216 package 
 
--	4.3” RGB 480×272 color LCD-TFT with capacitive touch screen 
+-	4.3 inch RGB 480×272 color LCD-TFT with capacitive touch screen 
 
 -	128-Mbit Quad-SPI Flash memory
  
@@ -34,7 +36,8 @@ Here are some highlights on DX FT8 Specifications:
 
 5- 10m (28.074 MHz)
 
-DX FT8 Transceiver has two RF Power Output Selection, HIGH RF POWER and LOW RF POWER which can be selected with the RF POWER Slide switch on the side of the transceiver.
+DX FT8 Transceiver has two RF Power Output Selection, LOW RF POWER and HIGH RF POWER which can be selected with the RF POWER Slide switch on the side of the transceiver.
+BAND   LOW PWR   HIGH PWR
 
 20m	   380mW	       823mW
 
