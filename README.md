@@ -6,7 +6,7 @@ DX FT8 is a FT8 Digital mode capable HF QRPp GUI (Graphical User Interface) base
 
 DX FT8 is abreviation for Digital Xceiver for FT8. 
 
-Main aim of DX FT8 TRX Project is to create a highly portable stand-alone FT8 GUI Transceiver. Stand-alone aim is to create User interface for FT8 digital mode plus Multiband transceiver in the same unit. 
+Main aim of DX FT8 Transceiver Project is to create a highly portable stand-alone FT8 GUI Transceiver. Stand-alone aim is to create User interface for FT8 digital mode plus Multiband transceiver in the same unit. 
 
 This creates an advantage of carrying one GUI based FT8 operation capable Transceiver unit and no longer need to carry a PC or a laptop or tablet for GUI interface operation for FT8 with a classic transceiver. 
 
