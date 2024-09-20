@@ -80,9 +80,9 @@ one set of items you must order directly from Mouser, Digikey, etc. to complete 
 Transceiver.
  
                         
--	KIT PRICE is $40.00 for DX FT8 RF BOARD and miscellaneous parts to complete RF board.
+-	KIT PRICE is US$40.00 for DX FT8 RF BOARD and miscellaneous parts to complete RF board.
       
--	 Shipping for a US address is 5.00 US$. 
+-	 Shipping for a US address is US$5.00 . 
 
 International shipping will depend on Country. Please send an email to: K5BCQ@arrl.net for inquiring shipping cost to your country.
  
