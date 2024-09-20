@@ -62,6 +62,48 @@ DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. I can't thank enou
 
 It's a pleasure for me to collaborate with Charley,W5BAA, on hardware side, RF design and PCB design of DX FT8 Transceiver.
 
+---------------------------------------------------------------------------------------------------------------
+KIT ORDERING INFO:
+ 
+The DX FT8 Kits may be ordered from Kees TALEN (K5BCQ) via PayPal 
+
+Paypal ID is  K5BCQ@ arrl.net
+
+Order as Merchandise. Yes that incurs a PayPal Fee but allows K5BCQ to print a shipping label.
+ 
+The kits are divided into two pieces, one set of DX FT8 RF BOARD items from K5BCQ and 
+
+one set of items you must order directly from Mouser, Digikey, etc. to complete the DX FT8 
+Transceiver.
+ 
+                        
+-	KIT PRICE is $40.00 for DX FT8 RF BOARD and miscellaneous parts to complete RF board.
+      
+-	 Shipping for a US address is 5.00 US$. 
+
+International shipping will depend on Country. Please send an email to: K5BCQ@arrl.net for inquiring shipping cost to your country.
+ 
+Additional parts to order to finalize the kit building:
+1-	Micro STM32F746 DISCO Evaluation board
+
+Sample Link: 
+https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F746G-DISCO/5267791?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-5267791_sig-Cj0KCQjwurS3BhCGARIsADdUH50Ts6paiim-lRjlgUEfkDAu1IRlpNb7VxFkCvfQx1aE6lQbkA6ywvwaAkE2EALw_wcB&gad_source=1&gclid=Cj0KCQjwurS3BhCGARIsADdUH50Ts6paiim-lRjlgUEfkDAu1IRlpNb7VxFkCvfQx1aE6lQbkA6ywvwaAkE2EALw_wcB
+
+1-	Micro-SM card for STM board  
+
+Sample Link: 
+https://a.co/d/0k5Jp81
+
+
+1-	12V power supply or 5V supply provided by the user
+
+1-	CS2032 coin cell provided by the user
+
+ 
+------------------------------------------------------------------------------------------------------------ 
+
+
+
 
 
 
