@@ -1,6 +1,7 @@
 # DX FT8  A MULTIBAND FT8 DIGITAL MODE TABLET TRANSCEIVER 
 
-![IMG_5568](https://github.com/user-attachments/assets/4db14f59-7d77-43b2-ba8d-116dba856e28)
+![DX FT8 INTRO](https://github.com/user-attachments/assets/408df1d6-2f16-4091-8fff-48c7fffb95d2)
+
 
 DX FT8 is a FT8 Digital mode capable HF QRPp GUI (Graphical User Interface) based multiband Transceiver.
 
