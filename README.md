@@ -2,7 +2,9 @@
 
 ![IMG_5568](https://github.com/user-attachments/assets/4db14f59-7d77-43b2-ba8d-116dba856e28)
 
-DX FT8 is a FT8 Digital mode capable HF QRPp GUI (Graphical User Interface) based multiband Transceiver.  
+DX FT8 is a FT8 Digital mode capable HF QRPp GUI (Graphical User Interface) based multiband Transceiver.
+
+DX FT8 is an OPEN SOURCE PROJECT!
 
 DX FT8 is abreviation for Digital Xceiver for FT8. 
 
