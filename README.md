@@ -87,6 +87,7 @@ Transceiver.
 International shipping will depend on Country. Please send an email to: K5BCQ@arrl.net for inquiring shipping cost to your country.
  
 Additional parts to order to finalize the kit building:
+
 1-	Micro STM32F746 DISCO Evaluation board
 
 Sample Link: 
