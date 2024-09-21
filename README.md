@@ -11,7 +11,7 @@ DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. Charley designed a
 
 I was lucky enough to collaborate with Charley on 3 different versions of GUI FT8 Transceiver.
 
-DX FT8 is the end product of culmination of all that experience we gained from previous versions.
+DX FT8 is the culmination of all that experience we gained from previous versions.
 
 I can't thank enough Charley for his excellent GUI FT8 Firmware and his perseverance to create a standalone FT8 TABLET Transceiver.
 
