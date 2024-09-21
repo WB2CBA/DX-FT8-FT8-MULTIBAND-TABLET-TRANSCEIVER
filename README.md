@@ -5,7 +5,7 @@
 
 
 
-DX FT8 TRANSCEIVER PROJECT is a collaboration of Charles(Charley)Hills, W5BAA and Barbaros(Barb)Asuroglu, WB2CBA.
+DX FT8 TRANSCEIVER PROJECT is a collaboration between Charles(Charley)Hills, W5BAA and Barbaros(Barb)Asuroglu, WB2CBA.
 
 DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. Charley designed and build various versions of GUI based FT8 Transceivers over the years. 
 
