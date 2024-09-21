@@ -73,6 +73,13 @@ DX FT8 Transceiver has two RF Power Output Selection, LOW RF POWER and HIGH RF P
 
 -	A short video of DX FT8 in action:
   https://www.youtube.com/watch?v=8b2WOxESAVU
+
+- DX FT8 PROJECT FIRMWARE STM IDE Environment Source code files can be downloaded from this link:
+
+https://drive.google.com/drive/folders/1oobpyw1_IDn4CDS9kfwyihfSv9H_CrcM?usp=sharing
+
+Souce file is too large to upload to Github. To circumvent around this file size restriction oof Github a google drive solution is preferred.
+
  	
 
 
