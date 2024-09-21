@@ -3,9 +3,23 @@
 ![DX FT8 INTRO](https://github.com/user-attachments/assets/408df1d6-2f16-4091-8fff-48c7fffb95d2)
 
 
-DX FT8 is a FT8 Digital mode capable HF QRPp GUI (Graphical User Interface) based multiband Transceiver.
+
+
+DX FT8 TRANSCEIVER PROJECT is a collaboration of Charles(Charley)Hills, W5BAA and Barbaros(Barb)Asuroglu, WB2CBA.
+
+DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. Charley designed and build various versions of GUI based FT8 Transceivers over the years. 
+
+I was lucky enough to collaborate with Charley on 3 different versions of GUI FT8 Transceiver.
+
+DX FT8 is the end product of culmination of all that experience we gained from previous versions.
+
+I can't thank enough Charley for his excellent GUI FT8 Firmware and his perseverance to create a standalone FT8 TABLET Transceiver.
+
+It's a pleasure for me to collaborate with Charley,W5BAA, on hardware side, RF design and PCB design of DX FT8 Transceiver.
 
 DX FT8 is an OPEN SOURCE PROJECT.
+
+DX FT8 is a FT8 Digital mode capable HF QRPp GUI (Graphical User Interface) based multiband Transceiver.
 
 DX FT8 is abreviation for Digital Xceiver for FT8. 
 
@@ -61,9 +75,7 @@ DX FT8 Transceiver has two RF Power Output Selection, LOW RF POWER and HIGH RF P
   https://www.youtube.com/watch?v=8b2WOxESAVU
  	
 
-DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. I can't thank enough Charley for his excellent GUI FT8 Firmware and his perseverance to create a standalone FT8 TABLET Transceiver.
 
-It's a pleasure for me to collaborate with Charley,W5BAA, on hardware side, RF design and PCB design of DX FT8 Transceiver.
 
 ---------------------------------------------------------------------------------------------------------------
 KIT ORDERING INFO:
