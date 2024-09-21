@@ -78,7 +78,7 @@ DX FT8 Transceiver has two RF Power Output Selection, LOW RF POWER and HIGH RF P
 
 https://drive.google.com/drive/folders/1oobpyw1_IDn4CDS9kfwyihfSv9H_CrcM?usp=sharing
 
-Souce file is too large to upload to Github. To circumvent around this file size restriction oof Github a google drive solution is preferred.
+Souce file is too large to upload to Github. To circumvent around Github file size restriction, a google drive solution is preferred.
 
  	
 
