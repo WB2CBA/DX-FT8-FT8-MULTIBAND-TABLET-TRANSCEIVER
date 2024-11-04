@@ -2,8 +2,17 @@
 
 ![DX FT8 INTRO](https://github.com/user-attachments/assets/408df1d6-2f16-4091-8fff-48c7fffb95d2)
 
+----------------------------------------------------------------------------------------------------------------------------------
 
+UPDATE #1 (11/04/2024):
 
+- Firmware Update to DX_FT8_4.bin
+
+- DX FT8 V1.1 Firmware DX_FT8_4.bin release notes PDF File added.
+
+- A short Abstract outlining DX FT8 Conception and Design path as a PDF file added.
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 DX FT8 TRANSCEIVER PROJECT is a collaboration between Charles(Charley)Hill, W5BAA and Barbaros(Barb)Asuroglu, WB2CBA.
 
