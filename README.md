@@ -6,9 +6,9 @@
 
 UPDATE #1 (11/04/2024):
 
-- Firmware Update DX_FT8_4.bin released.
+- Firmware Update DX_FT8_V1.1.bin released.
 
-- DX FT8 V1.1 Firmware, DX_FT8_4.bin release notes PDF File added.
+- DX FT8 V1.1 Firmware, DX_FT8_V1.1.bin release notes PDF File added.
 
 - An Abstract outlining DX FT8 Conception and Design path as a PDF file added.
 
