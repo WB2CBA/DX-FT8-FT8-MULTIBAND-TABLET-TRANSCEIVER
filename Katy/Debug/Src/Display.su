@@ -1,0 +1,15 @@
+Display.c:53:6:update_log_display	24	static
+Display.c:93:6:update_Beacon_log_display	24	static
+Display.c:136:6:show_wide	24	static
+Display.c:145:6:show_variable	24	static
+Display.c:153:6:show_short	24	static
+Display.c:162:6:show_UTC_time	24	static
+Display.c:176:6:show_Real_Date	24	static
+Display.c:184:6:setup_display	8	static
+Display.c:213:6:Set_Cursor_Frequency	8	static
+Display.c:255:10:FFT_Touch	0	static
+Display.c:264:5:FT8_Touch	0	static
+Display.c:282:5:Xmit_message_Touch	0	static
+Display.c:217:6:Process_Touch	16	static
+Display.c:301:6:Init_Waterfall	0	static
+Display.c:312:6:Display_WF	32	static

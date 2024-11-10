@@ -1,0 +1,3 @@
+stm32f7xx_hal_rcc_ex.c:126:19:HAL_RCCEx_PeriphCLKConfig	40	static,ignoring_inline_asm
+stm32f7xx_hal_rcc_ex.c:647:6:HAL_RCCEx_GetPeriphCLKConfig	20	static,ignoring_inline_asm
+stm32f7xx_hal_rcc_ex.c:763:10:HAL_RCCEx_GetPeriphCLKFreq	0	static

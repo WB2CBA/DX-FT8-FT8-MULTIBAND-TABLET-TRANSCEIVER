@@ -1,0 +1,9 @@
+Codec_Gains.c:31:6:Set_HP_Gain	8	static
+Codec_Gains.c:44:6:Set_Mic_PGA_Gain	8	static
+Codec_Gains.c:60:6:Set_PGA_Gain	8	static
+Codec_Gains.c:77:6:Set_Spkr_DVC	8	static
+Codec_Gains.c:95:6:Set_Mic_ADC_DVC	8	static
+Codec_Gains.c:112:6:Set_ADC_DVC	8	static
+Codec_Gains.c:135:6:Mute_HP	8	static
+Codec_Gains.c:148:6:Mute_Speakers	8	static
+Codec_Gains.c:157:6:wm8994_Mute	8	static

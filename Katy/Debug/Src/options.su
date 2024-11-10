@@ -1,0 +1,9 @@
+options.c:63:9:Options_GetValue	0	static
+options.c:92:6:Options_SetValue	0	static
+options.c:125:6:Options_ResetToDefaults	0	static
+options.c:167:6:Write_Int_MicroSD	152	static
+options.c:134:6:Options_WriteToMicroSD	0	static
+options.c:153:6:Options_StoreValue	0	static
+options.c:184:9:Read_Int_MicroSD	152	static
+options.c:143:6:Options_ReadFromMicroSD	8	static
+options.c:99:6:Options_Initialize	8	static

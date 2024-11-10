@@ -1,0 +1,5 @@
+sdram_diskio.c:88:9:SDRAMDISK_status	0	static
+sdram_diskio.c:105:9:SDRAMDISK_read	0	static
+sdram_diskio.c:128:9:SDRAMDISK_write	8	static
+sdram_diskio.c:72:9:SDRAMDISK_initialize	8	static
+sdram_diskio.c:151:9:SDRAMDISK_ioctl	0	static
