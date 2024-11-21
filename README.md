@@ -107,7 +107,9 @@ https://drive.google.com/drive/folders/1oobpyw1_IDn4CDS9kfwyihfSv9H_CrcM?usp=sha
 
 Souce file is too large to upload to Github. To circumvent around Github file size restriction, a google drive solution is preferred.
 
- 	
+ACKNOWLEDGEMENT:
+
+DX FT8 Firmware is based on work done by Karlis Goba, YL3JG. Here is a link to his website: https://github.com/kgoba/ft8_lib. 
 
 
 
