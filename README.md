@@ -109,7 +109,7 @@ Souce file is too large to upload to Github. To circumvent around Github file si
 
 ACKNOWLEDGEMENT:
 
-DX FT8 Firmware is based on work done by Karlis Goba, YL3JG. Here is a link to his website: https://github.com/kgoba/ft8_lib. 
+DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link to his website: https://github.com/kgoba/ft8_lib. 
 
 
 
