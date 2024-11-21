@@ -4,11 +4,29 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-UPDATE #1 (11/04/2024):
+UPDATE #1 (11/21/2024):
 
-- Firmware Update DX_FT8_V1.1.bin released.
+- DX FT8 Project Firmware Version 1.3 Release Note 21 November 2024
+  
+This version of the firmware was written to make two changes:
 
-- DX FT8 V1.1 Firmware, DX_FT8_V1.1.bin release notes PDF File added.
+1) Logging is always ON. There is no need to initiate logging by touching the Log Button.
+   
+2) The Log Button has been replaced with a Button labeled “Fixd” in Blue and “Rcvd” in Red.
+   
+This button only affects the QSO Mode of operation.
+
+When the Button is shown in Blue as “Fixd”, FT8 Messages are transmitted on the FT8 Offset Frequency
+
+which is controlled by the location of Offset Cursor shown on the Waterfall.
+
+When the Button is shown in the Red as “Rcvd” FT8 Messages are transmitted on the frequency used by the Target Station.
+
+Again, the change only affects the QSO Mode of operation. When in the Beacon Mode, FT8 Messages are transmitted on
+
+the FT8 Offset Frequency regardless of the State of the Fixd / Rcvd Button.
+
+Please refer to the DX_FT8 V1.3 Cheat Sheet Document supplied with this Release Note.
 
 - An Abstract outlining DX FT8 Conception and Design path as a PDF file added.
 
