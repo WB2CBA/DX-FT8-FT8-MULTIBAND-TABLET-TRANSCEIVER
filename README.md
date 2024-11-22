@@ -38,6 +38,8 @@ the FT8 Offset Frequency regardless of the State of the Fixd / Rcvd Button.
 
 Please refer to the DX_FT8 V1.3 Cheat Sheet Document supplied with this Release Note.
 
+- To download firmware please click on firmware and then use the download arrow on right top corner of page to download as RAW.
+
 - An Abstract outlining DX FT8 Conception and Design path as a PDF file added.
 
 -----------------------------------------------------------------------------------------------------------------------------------
