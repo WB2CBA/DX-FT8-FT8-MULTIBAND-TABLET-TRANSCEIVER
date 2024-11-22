@@ -11,6 +11,8 @@ UPDATE #2 (11/22/2024):
 
 - https://www.dropbox.com/scl/fi/4ld6zc4chno466gx8vzu2/en.stsw-link004.zip?rlkey=cdj1srds99i81hoh71glte1m3&st=hxh72uyn&dl=0
 
+- To download click on the download arrow on right top corner of dropbox window.
+
 
 UPDATE #1 (11/21/2024):
 
