@@ -1,0 +1,2 @@
+syscall.c:100:7:ff_memalloc	0	static
+syscall.c:112:6:ff_memfree	0	static

@@ -1,0 +1,3 @@
+log_file.c:76:6:Open_Log_File	8	static
+log_file.c:104:6:Write_Log_Data	16	static
+log_file.c:121:6:Close_Log_File	0	static

@@ -1,0 +1,11 @@
+SDR_Audio.c:29:6:start_audio_I2C	0	static
+SDR_Audio.c:35:6:clear_Output_Buffers	0	static
+SDR_Audio.c:42:6:start_codec	8	static
+SDR_Audio.c:49:6:start_duplex	8	static,ignoring_inline_asm
+SDR_Audio.c:70:6:transfer_buffers	16	static
+SDR_Audio.c:81:6:clear_buffers	8	static
+SDR_Audio.c:91:6:BSP_AUDIO_IN_TransferComplete_CallBack	0	static
+SDR_Audio.c:101:6:BSP_AUDIO_IN_HalfTransfer_CallBack	0	static
+SDR_Audio.c:110:6:BSP_AUDIO_OUT_TransferComplete_CallBack	0	static
+SDR_Audio.c:120:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	0	static
+SDR_Audio.c:133:6:I2S2_RX_ProcessBuffer	40	static
