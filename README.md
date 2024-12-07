@@ -8,6 +8,8 @@ DX FT8 FIRMWARE UPDATE HISTORY:
 DX FT8 Project Firmware Version 1.4 Release Note 4 December 2024:
 
 ----------------------------------------------------------------------------------------------------------------------------------
+The most recent version is DX FT8 V1.4.2
+
 This version of the firmware was written to make three changes:
 
 1) As a result of observation of the operation of the application it was noted that some contacts resulted in FT_8 Target
