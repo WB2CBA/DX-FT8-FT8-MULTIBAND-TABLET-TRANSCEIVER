@@ -30,7 +30,7 @@ that both a Sent RSL and a Received RSL be confirmed in order to make an entry i
 
 3) Automatic update of the Date Display and ADIF File Name occurs when the RTC Date changes.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------
 DX FT8 Project Firmware Version 1.3 Release Note 21 November 2024:
 
 -----------------------------------------------------------------------------------------------------------------------------------  
