@@ -2,12 +2,39 @@
 
 ![DX FT8 INTRO](https://github.com/user-attachments/assets/408df1d6-2f16-4091-8fff-48c7fffb95d2)
 
+DX FT8 FIRMWARE UPDATE HISTORY:
+
 ----------------------------------------------------------------------------------------------------------------------------------
+DX FT8 Project Firmware Version 1.4 Release Note 4 December 2024:
 
-UPDATE #1 (11/21/2024):
+----------------------------------------------------------------------------------------------------------------------------------
+This version of the firmware was written to make three changes:
 
-- DX FT8 Project Firmware Version 1.3 Release Note 21 November 2024
-  
+1) As a result of observation of the operation of the application it was noted that some contacts resulted in FT_8 Target
+
+Stations repeatedly sending a RSL report or Maidenhead Locator after the application closed out the contact with a RR73 
+
+message. An in depth review of actual On The Air FT8 Traffic shows that this happens with some frequency between other
+
+FT8 stations.
+
+In order to prevent such behavior disrupting the operation of the DX_FT8 Station, the application has been modified so that 
+
+after four calls are received from a station any further calls received are not processed for reply messages or display in the 
+
+logged traffic shown in the right hand pane of the display.
+
+2) It has been noted that some FT8 contacts are logged without an actual Received RSL logged. This version now requires 
+
+that both a Sent RSL and a Received RSL be confirmed in order to make an entry in the ADIF Log File.
+
+3) Automatic update of the Date Display and ADIF File Name occurs when the RTC Date changes.
+
+
+DX FT8 Project Firmware Version 1.3 Release Note 21 November 2024:
+
+-----------------------------------------------------------------------------------------------------------------------------------  
+
 This version of the firmware was written to make two changes:
 
 1) Logging is always ON. There is no need to initiate logging by touching the Log Button.
