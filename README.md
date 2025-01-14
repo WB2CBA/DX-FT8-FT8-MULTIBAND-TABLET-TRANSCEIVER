@@ -5,10 +5,10 @@
 DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.8 Release Note 15 January 2025:
+DX FT8 Project Firmware Version 1.8 Release Note 14 January 2025:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.8 Release Notes: 15 January 2025
+DX FT8 Project Firmware Version 1.8 Release Notes: 14 January 2025
 
 This version of the firmware was written to make six changes:
 
@@ -157,7 +157,7 @@ DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link t
 ---------------------------------------------------------------------------------------------------------------
 KIT ORDERING INFO:
 ---------------------------------------------------------------------------------------------------------------------------------
-All DXFT8 Kit shipments after 15 January 2025 will be 7 Band DXFT8 kits and that the firmware will support both the 5 Band and 7 Band units. 
+All DXFT8 Kit shipments after 14 January 2025 will be 7 Band DXFT8 kits and that the firmware will support both the 5 Band and 7 Band units. 
 
 There is nothing operationally different between the two except the additional bands covered.
 
