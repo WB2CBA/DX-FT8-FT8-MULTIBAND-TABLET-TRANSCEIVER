@@ -157,9 +157,9 @@ DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link t
 ---------------------------------------------------------------------------------------------------------------
 KIT ORDERING INFO:
 ---------------------------------------------------------------------------------------------------------------------------------
-All DXFT8 Kit shipments after today will be 7 Band DXFT8 kits and that the firmware will support both the 5 Band and 7 Band units. 
+All DXFT8 Kit shipments after 15 January 2025 will be 7 Band DXFT8 kits and that the firmware will support both the 5 Band and 7 Band units. 
 
-There is nothing operationally different between the two except the Bands covered.
+There is nothing operationally different between the two except the additional bands covered.
 
 ---------------------------------------------------------------------------------------------------------------------------------
  
