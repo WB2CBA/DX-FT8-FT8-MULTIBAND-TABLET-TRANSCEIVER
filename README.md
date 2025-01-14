@@ -5,59 +5,46 @@
 DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.4 Release Note 4 December 2024:
+DX FT8 Project Firmware Version 1.8 Release Note 15 January 2025:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-The most recent version is DX FT8 V1.4.2
+DX FT8 Project Firmware Version 1.8 Release Notes: 15 January 2025
 
-This version of the firmware was written to make three changes:
+This version of the firmware was written to make six changes:
 
-1) As a result of observation of the operation of the application it was noted that some contacts resulted in FT_8 Target
+1) Automatic update of the Date Display and ADIF File Name occurs when the RTC Date changes.
 
-Stations repeatedly sending a RSL report or Maidenhead Locator after the application closed out the contact with a RR73 
+2) When switching from QSO Mode to Beacon Mode or Beacon Mode to QSO the FT Transmit Frequency does
 
-message. An in depth review of actual On The Air FT8 Traffic shows that this happens with some frequency between other
+not change.
 
-FT8 stations.
+3) The contents of the StationData.txt file is checked to make sure the entered data is valid. When the Station Data is valid
 
-In order to prevent such behavior disrupting the operation of the DX_FT8 Station, the application has been modified so that 
+the user’s Call Sign and Maidenhead Locator are displayed on the boot up screen. If the data is not valid an error message is
 
-after four calls are received from a station any further calls received are not processed for reply messages or display in the 
+displayed instead of the User’s Station Data.
 
-logged traffic shown in the right hand pane of the display.
+4) The QSO and Beacon FT8 Traffic Handling routines have been extensively revised and tested On The Air to provide for
 
-2) It has been noted that some FT8 contacts are logged without an actual Received RSL logged. This version now requires 
+repeat messages being transmitted when propagation conditions cause normal FT8 exchanges to be disrupted. Please see the
 
-that both a Sent RSL and a Received RSL be confirmed in order to make an entry in the ADIF Log File.
+Flow Chart Below for a detailed description of how both the QSO Mode and Beacon Mode now operate.
 
-3) Automatic update of the Date Display and ADIF File Name occurs when the RTC Date changes.
+5) With the release of the Seven Band Board a major revision of the Band Switching routines has been made so that Both
 
------------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.3 Release Note 21 November 2024:
+Existing Five Band Boards and New Seven Bands are serviced by a single application. The Version 1.8 firmware 
 
------------------------------------------------------------------------------------------------------------------------------------  
+interrogates the attached DX FT8 board to determine board pedigree and then sets the Band Switching Parameters
 
-This version of the firmware was written to make two changes:
+accordingly.
 
-1) Logging is always ON. There is no need to initiate logging by touching the Log Button.
-   
-2) The Log Button has been replaced with a Button labeled “Fixd” in Blue and “Rcvd” in Red.
-   
-This button only affects the QSO Mode of operation.
+Please note that for Users with Five Band Boards or Seven Band Boards that it is highly recommended that you use a 
 
-When the Button is shown in Blue as “Fixd”, FT8 Messages are transmitted on the FT8 Offset Frequency
+Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 V1.8 for the first time.
 
-which is controlled by the location of Offset Cursor shown on the Waterfall.
+6) The DX FT8 User Guide has been revised to capture the changes made with the Firmware Version 1.8 Release.
 
-When the Button is shown in the Red as “Rcvd” FT8 Messages are transmitted on the frequency used by the Target Station.
-
-Again, the change only affects the QSO Mode of operation. When in the Beacon Mode, FT8 Messages are transmitted on
-
-the FT8 Offset Frequency regardless of the State of the Fixd / Rcvd Button.
-
-Please refer to the DX_FT8 V1.3 Cheat Sheet Document supplied with this Release Note.
-
-- To download firmware please click on firmware and then use the download arrow on right top corner of page to download as RAW.
+Please note that Versions 1.5 thru 1.7 have not and will not be released
 
 - An Abstract outlining DX FT8 Conception and Design path as a PDF file added.
 
@@ -99,7 +86,9 @@ Here are some highlights on DX FT8 Specifications:
  
 -	DX FT8 Transceiver RF Board plugs into STM32F746 DISCO evaluation board to form the DX FT8 transceiver. 
 
--	DX FT8 Transceiver operates on 5 HF bands. These bands are:
+-	DX FT8 Transceiver operates on 5 HF bands or 7 Bands depending on PCB type. These bands are:
+
+For 5 Bands Board:
   
 1 – 20m (14.074 MHz)
 
@@ -111,7 +100,28 @@ Here are some highlights on DX FT8 Specifications:
 
 5- 10m (28.074 MHz)
 
+For 7 Bands Board:
+  
+1 – 40m (7.074 MHz)
+
+2- 30m (10.136 MHz)
+
+3 – 20m (14.074 MHz)
+
+4- 17m (18.100 MHz)
+
+5- 15m (21.074 MHz)
+
+6- 12m (24.915 MHz)
+
+7- 10m (28.074 MHz)
+
+
 DX FT8 Transceiver has two RF Power Output Selection, LOW RF POWER and HIGH RF POWER which can be selected with the RF POWER Slide switch on the side of the transceiver.
+
+40m	   372mW	       844mW
+
+30m	   373mW	       843mW
 
 20m	   380mW	       823mW
 
