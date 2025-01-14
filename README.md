@@ -156,18 +156,25 @@ DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link t
 
 ---------------------------------------------------------------------------------------------------------------
 KIT ORDERING INFO:
+---------------------------------------------------------------------------------------------------------------------------------
+All DXFT8 Kit shipments after today will be 7 Band DXFT8 kits and that the firmware will support both the 5 Band and 7 Band units. 
+
+There is nothing operationally different between the two except the Bands covered.
+
+---------------------------------------------------------------------------------------------------------------------------------
  
 The DX FT8 Kits may be ordered from Kees TALEN (K5BCQ) via PayPal 
 
 Paypal ID is  K5BCQ@ arrl.net
 
-Order as Merchandise. Yes that incurs a PayPal Fee but allows K5BCQ to print a shipping label.
+Order as "Goods or Services". Yes that incurs a PayPal Fee but allows K5BCQ to print a shipping label.
  
 The kits are divided into two pieces, one set of DX FT8 RF BOARD items from K5BCQ and 
 
 one set of items you must order directly from Mouser, Digikey, etc. to complete the DX FT8 
 Transceiver.
  
+
                         
 -	KIT PRICE is US$40.00 for DX FT8 RF BOARD and miscellaneous parts to complete RF board.
       
