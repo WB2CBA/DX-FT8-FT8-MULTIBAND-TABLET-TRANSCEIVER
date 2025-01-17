@@ -146,7 +146,11 @@ DX FT8 Transceiver has two RF Power Output Selection, LOW RF POWER and HIGH RF P
 
 https://drive.google.com/drive/folders/1oobpyw1_IDn4CDS9kfwyihfSv9H_CrcM?usp=sharing
 
-Souce file is too large to upload to Github. To circumvent around Github file size restriction, a google drive solution is preferred.
+Source file is too large to upload to Github. To circumvent around Github file size restriction, a google drive solution is preferred.
+
+The most recent version can be downloaded from this link:
+
+https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/releases/tag/untagged-cf0e12cb6f30d0435487
 
 ACKNOWLEDGEMENT:
 
