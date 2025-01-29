@@ -40,6 +40,10 @@ Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 
 
 - An Abstract outlining DX FT8 Conception and Design path as a PDF file added.
 
+- ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, for his contributions to refine and refactor DX FT8 Firmware as well as
+  
+  adding new features and cleaning the code. Paul's contributions are reflected in DXFT8 V1.9 firmware. 
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 DX FT8 TRANSCEIVER PROJECT is a collaboration between Charles(Charley)Hill, W5BAA and Barbaros(Barb)Asuroglu, WB2CBA.
