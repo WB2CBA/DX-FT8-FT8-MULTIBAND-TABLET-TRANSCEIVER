@@ -5,46 +5,38 @@
 DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.8 Release Note 14 January 2025:
+DX FT8 Project Firmware Version 1.8 Release Note 26 January 2025:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.8 Release Notes: 14 January 2025
+DX FT8 Project Firmware Version 1.9 Release Notes: 26 January 2025
 
 This version of the firmware was written to make six changes:
 
-1) Automatic update of the Date Display and ADIF File Name occurs when the RTC Date changes.
+1) The logging of contacts in the ADIF Log File has been changed so that all data items entered are first checked for
 
-2) When switching from QSO Mode to Beacon Mode or Beacon Mode to QSO the FT Transmit Frequency does
+ “Leading Spaces” When leading spaces are found they are removed. It is noted that some Contact Log Applications do
 
-not change.
+not like leading spaces in data entries.
 
-3) The contents of the StationData.txt file is checked to make sure the entered data is valid. When the Station Data is valid
+2) The rules for validation of Station Data on the SD Card have been modified to be “Not So Picky’.
 
-the user’s Call Sign and Maidenhead Locator are displayed on the boot up screen. If the data is not valid an error message is
+3) Received CQ messages are now displayed with the Received Signal Level (RSL) appended onto the message to help
 
-displayed instead of the User’s Station Data.
+users decide which CQ they want to pursue.
 
-4) The QSO and Beacon FT8 Traffic Handling routines have been extensively revised and tested On The Air to provide for
+4) Modified the Cursor shown in Waterfall so that two vertical red lines are shown bracketing the selected FT8 channel of 
 
-repeat messages being transmitted when propagation conditions cause normal FT8 exchanges to be disrupted. Please see the
+the transmitted FT8 signal making it easier to find a blank channel.
 
-Flow Chart Below for a detailed description of how both the QSO Mode and Beacon Mode now operate.
+5) The project files have been extensively refactored to provide more efficient execution.
 
-5) With the release of the Seven Band Board a major revision of the Band Switching routines has been made so that Both
-
-Existing Five Band Boards and New Seven Bands are serviced by a single application. The Version 1.8 firmware 
-
-interrogates the attached DX FT8 board to determine board pedigree and then sets the Band Switching Parameters
-
-accordingly.
+6) The project has been ported to build from the command line where a recent 'arm-none-eabi-gcc compiler' is available 
+using your favourite editor. > ‘build.cmd’ and ‘build.sh’ are sample build scripts that demonstrate the process. As ever 
+YMMV
 
 Please note that for Users with Five Band Boards or Seven Band Boards that it is highly recommended that you use a 
 
-Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 V1.8 for the first time.
-
-6) The DX FT8 User Guide has been revised to capture the changes made with the Firmware Version 1.8 Release.
-
-Please note that Versions 1.5 thru 1.7 have not and will not be released
+Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 V1.9 for the first time.
 
 - An Abstract outlining DX FT8 Conception and Design path as a PDF file added.
 
