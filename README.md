@@ -30,9 +30,11 @@ the transmitted FT8 signal making it easier to find a blank channel.
 
 5) The project files have been extensively refactored to provide more efficient execution.
 
-6) The project has been ported to build from the command line where a recent 'arm-none-eabi-gcc compiler' is available 
-using your favourite editor. > ‘build.cmd’ and ‘build.sh’ are sample build scripts that demonstrate the process. As ever 
-YMMV
+6) The project has been ported to build from the command line where a recent 'arm-none-eabi-gcc compiler' is available
+   
+using your favourite editor. > ‘build.cmd’ and ‘build.sh’ are sample build scripts that demonstrate the process. 
+
+As ever YMMV.
 
 Please note that for Users with Five Band Boards or Seven Band Boards that it is highly recommended that you use a 
 
@@ -40,9 +42,9 @@ Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 
 
 - An Abstract outlining DX FT8 Conception and Design path as a PDF file added.
 
-- ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, for his contributions to refine and refactor DX FT8 Firmware as well as
-  
-  adding new features and cleaning the code. Paul's contributions are reflected in DXFT8 V1.9 firmware. 
+- ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, for his contributions to refine and refactor DX FT8 Firmware as well
+
+  as adding new features and cleaning the code. Paul's contributions are reflected in DXFT8 V1.9 firmware. 
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
