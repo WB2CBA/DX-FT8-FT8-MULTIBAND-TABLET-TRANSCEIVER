@@ -5,7 +5,7 @@
 DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.8 Release Note 26 January 2025:
+DX FT8 Project Firmware Version 1.9 Release Note 26 January 2025:
 
 ----------------------------------------------------------------------------------------------------------------------------------
 DX FT8 Project Firmware Version 1.9 Release Notes: 26 January 2025
