@@ -3,6 +3,7 @@
 ![DX FT8 INTRO](https://github.com/user-attachments/assets/408df1d6-2f16-4091-8fff-48c7fffb95d2)
 
 DX FT8 NOW CAN DO POTA AND SOTA THANKS TO WEI, AG6AQ AND HIS EXCELLENT MODIFICATIONS TO EXISTING DX FT8 V1.9 FIRMWARE!
+----------------------------------------------------------------------------------------------------------------------
 
 Here is GITHUB Page of WEI where you can download SOTA/POTA capable firmware:
 
