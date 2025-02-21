@@ -184,6 +184,9 @@ https://www.thingiverse.com/thing:6847793
 
  This 3D printed case is designed by ZL1DMM/Dave. Thank you Dave for designing this excellent 3D printable case for DX FT8 Transceiver.
 
+ ![large_display_IMG_20241127_194136](https://github.com/user-attachments/assets/80376cca-b342-4463-8e1c-0aa2e032ad22)
+
+
 ---------------------------------------------------------------------------------------------------------------------------------
 KIT ORDERING INFO:
 ---------------------------------------------------------------------------------------------------------------------------------
