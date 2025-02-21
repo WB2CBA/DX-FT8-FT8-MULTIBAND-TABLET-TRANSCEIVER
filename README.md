@@ -9,9 +9,11 @@ Here is GITHUB Page of WEI where you can download SOTA/POTA capable firmware:
 
 https://github.com/wcheng95/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/blob/main/DXFT8_V1.9_POTA.bin
 
-WEI, AG6AQ's Instructions how to setup and use DX FT8 on SOTA/POTA mode is in this link:
+WEI, AG6AQ's Instructions how to setup and use DX FT8 on SOTA/POTA mode is in these links:
 
-https://groups.io/g/DXFT8/message/280
+https://dxft8.groups.io/g/main/message/300
+
+https://dxft8.groups.io/g/main/message/302
 
 DX FT8 FIRMWARE UPDATE HISTORY:
 
