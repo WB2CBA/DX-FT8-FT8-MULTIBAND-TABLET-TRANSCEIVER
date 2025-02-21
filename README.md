@@ -180,7 +180,7 @@ DX FT8 3D Printed Case Link:
 
 https://www.thingiverse.com/thing:6847793
 
- From this link you can download #D printable case for DX FT8 which makes it pretty protective and convenient for portable operations.
+ From this link you can download 3D printable case for DX FT8 which makes it pretty protective and convenient for portable operations.
 
  This 3D printed case isdesigned by ZL1DMM/Dave. Thank you Dave for designing this excellent 3D printable case for DX FT8 Transceiver.
 
