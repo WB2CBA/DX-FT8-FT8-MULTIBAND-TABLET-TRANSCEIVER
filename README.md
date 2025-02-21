@@ -175,9 +175,16 @@ ACKNOWLEDGEMENT:
 
 DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link to his website: https://github.com/kgoba/ft8_lib. 
 
+--------------------------------------------------------------------------------------------------------------------------------
+DX FT8 3D Printed Case Link:
 
+https://www.thingiverse.com/thing:6847793
 
----------------------------------------------------------------------------------------------------------------
+ From this link you can download #D printable case for DX FT8 which makes it pretty protective and convenient for portable operations.
+
+ This 3D printed case isdesigned by ZL1DMM/Dave. Thank you Dave for designing this excellent 3D printable case for DX FT8 Transceiver.
+
+---------------------------------------------------------------------------------------------------------------------------------
 KIT ORDERING INFO:
 ---------------------------------------------------------------------------------------------------------------------------------
 All DXFT8 Kit shipments after 14 January 2025 will be 7 Band DXFT8 kits and that the firmware will support both the 5 Band and 7 Band units. 
