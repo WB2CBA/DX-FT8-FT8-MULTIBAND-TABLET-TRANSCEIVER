@@ -176,6 +176,8 @@ ACKNOWLEDGEMENT:
 DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link to his website: https://github.com/kgoba/ft8_lib. 
 
 --------------------------------------------------------------------------------------------------------------------------------
+3D PRINTED CASE
+
 DX FT8 3D Printed Case Link:
 
 https://www.thingiverse.com/thing:6847793
