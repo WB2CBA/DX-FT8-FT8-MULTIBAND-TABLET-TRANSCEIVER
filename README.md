@@ -35,7 +35,8 @@ Please see the graphic below.
 3) The Firmware is now being provided as a HEX File to make installation via ST Link easier.
    ![Touchscreen Blanking](https://github.com/user-attachments/assets/5200658a-2ce7-4d6f-93e6-4fd22537c68c)
 
-
+----------------------------------------------------------------------------------------------------------------------------------
+DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excellent 3d case design.
 ----------------------------------------------------------------------------------------------------------------------------------
 DX FT8 Project Firmware Version 1.9 Release Notes: 26 JANUARY 2025
 
