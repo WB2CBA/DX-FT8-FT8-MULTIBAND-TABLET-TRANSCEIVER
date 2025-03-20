@@ -9,11 +9,7 @@ Here is GITHUB Page of WEI where you can download SOTA/POTA capable firmware:
 
 https://github.com/wcheng95/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/blob/main/DXFT8_V1.9_POTA.bin
 
-WEI, AG6AQ's Instructions how to setup and use DX FT8 on SOTA/POTA mode is in these links:
 
-https://dxft8.groups.io/g/main/message/300
-
-https://dxft8.groups.io/g/main/message/302
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,15 +28,21 @@ https://github.com/wcheng95/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/tree/main
 
 Many thanks to Wei and hopefully others will use the Open Source Code to make great additions to the code.
 
-1) Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
+WEI, AG6AQ's Instructions how to setup and use DX FT8 on SOTA/POTA mode is in these links:
+
+https://dxft8.groups.io/g/main/message/300
+
+https://dxft8.groups.io/g/main/message/302
+
+- Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
 
 To turn the Display back On, touch anywhere on the screen. This reduces the current draw by about 100 MADC. 
 
 Please see the graphic below.
 
-2) The Audio DSP Algorithms have been modified to improve Unwanted Side Band Suppression.
+- The Audio DSP Algorithms have been modified to improve Unwanted Side Band Suppression.
 
-3) The Firmware is now being provided as a HEX File to make installation via ST Link easier.
+- The Firmware is now being provided as a HEX File to make installation via ST Link easier.
    ![Touchscreen Blanking](https://github.com/user-attachments/assets/5200658a-2ce7-4d6f-93e6-4fd22537c68c)
 
 ----------------------------------------------------------------------------------------------------------------------------------
