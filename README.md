@@ -22,7 +22,7 @@ This version of the firmware was written to include SOTA / POTA calling CQ plus 
 
 The SOTA / POTA capability was developed by Wei, AG6AU.
 
-Here is a link to Wie’s GitHub Repository:
+Here is a link to Wei’s GitHub Repository:
 
 https://github.com/wcheng95/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/tree/main
 
