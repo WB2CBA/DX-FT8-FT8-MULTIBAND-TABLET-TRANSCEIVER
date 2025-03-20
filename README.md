@@ -33,7 +33,26 @@ WEI, AG6AQ's Instructions how to setup and use DX FT8 on SOTA/POTA mode is in th
 https://dxft8.groups.io/g/main/message/300
 
 https://dxft8.groups.io/g/main/message/302
+--------------------------------------------------------------------------------------------------------
+Instructions by Wei, AG6AU how to setup and use SOTA/POTA capable latest release:
+You can choose 4 type of CQ under tune menu:
 
+CQ [YourCall] [YourGrid]
+
+CQ DX [YourCall] [YourGrid]
+
+CQ POTA [YourCall] [YourGrid]
+
+CQ SOTA [YourCall] [YourGrid]
+ 
+If you're interested in free text, you can add 1 or 2 fields in StationData.txt
+
+[YourCall]:[YourGrid]:[Free Text 1]:[Free Text 2]
+
+Free Text can be 1 to 13 characters in the range of [ 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ+-./?]
+
+To choose between CQ and Free Text, click the button next to Tune, originally called Rcv/Xmit.
+---------------------------------------------------------------------------------------------------------
 - Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
 
 To turn the Display back On, touch anywhere on the screen. This reduces the current draw by about 100 MADC. 
