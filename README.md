@@ -53,7 +53,7 @@ If you're interested in free text, you can add 1 or 2 fields in StationData.txt
 Free Text can be 1 to 13 characters in the range of [ 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ+-./?]
 
 To choose between CQ and Free Text, click the button next to Tune, originally called Rcv/Xmit.
-----------------------------------------------------------------------------------------------
+
 - Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
 
 To turn the Display back On, touch anywhere on the screen. This reduces the current draw by about 100 MADC. 
