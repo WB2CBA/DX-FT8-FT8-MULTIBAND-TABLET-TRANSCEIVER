@@ -59,34 +59,6 @@ Please see the graphic below.
 ----------------------------------------------------------------------------------------------------------------------------------
 DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excellent 3D case design.
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9 Release Notes: 26 JANUARY 2025
-
-This version of the firmware was written to make six changes:
-
-1) The logging of contacts in the ADIF Log File has been changed so that all data items entered are first checked for
-
- “Leading Spaces” When leading spaces are found they are removed. It is noted that some Contact Log Applications do
-
-not like leading spaces in data entries.
-
-2) The rules for validation of Station Data on the SD Card have been modified to be “Not So Picky’.
-
-3) Received CQ messages are now displayed with the Received Signal Level (RSL) appended onto the message to help
-
-users decide which CQ they want to pursue.
-
-4) Modified the Cursor shown in Waterfall so that two vertical red lines are shown bracketing the selected FT8 channel of 
-
-the transmitted FT8 signal making it easier to find a blank channel.
-
-5) The project files have been extensively refactored to provide more efficient execution.
-
-6) The project has been ported to build from the command line where a recent 'arm-none-eabi-gcc compiler' is available
-   
-using your favourite editor. > ‘build.cmd’ and ‘build.sh’ are sample build scripts that demonstrate the process. 
-
-As ever YMMV.
-
 Please note that for Users with Five Band Boards or Seven Band Boards that it is highly recommended that you use a 
 
 Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 V1.9 for the first time.
@@ -95,11 +67,11 @@ Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 
 
 - ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, for his contributions to refine and refactor DX FT8 Firmware as well
 
-  as adding new features and cleaning the code. Paul's contributions are reflected in DX FT8 V1.9 firmware.
+  as adding new features and cleaning the code. Paul's contributions are reflected in DX FT8 V1.9.2 firmware.
   
 ----------------------------------------------------------------------------------------------------------------------------------------------  
 
-  Check Paul's github page for latest source code files: https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/releases/tag/V1.9
+  Check Paul's github page for latest source code files: https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/releases/tag/V1.9.2
   
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
