@@ -20,9 +20,17 @@ https://dxft8.groups.io/g/main/message/302
 DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9.1 Release Note 20 FEBRUARY 2025:
+DX FT8 Project Firmware Version 1.9.2 Release Notes: 3 March 2025
 
-This version of the firmware was written to make two changes:
+This version of the firmware was written to include SOTA / POTA calling CQ plus the ability to send Free Text messages.
+
+The SOTA / POTA capability was developed by Wei, AG6AU.
+
+Here is a link to Wie’s GitHub Repository:
+
+https://github.com/wcheng95/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/tree/main
+
+Many thanks to Wei and hopefully others will use the Open Source Code to make great additions to the code.
 
 1) Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
 
