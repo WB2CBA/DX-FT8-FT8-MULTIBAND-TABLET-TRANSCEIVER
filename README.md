@@ -58,6 +58,7 @@ Please see the graphic below.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excellent 3D case design.
+ ![large_display_IMG_20241127_194136](https://github.com/user-attachments/assets/80376cca-b342-4463-8e1c-0aa2e032ad22)
 ----------------------------------------------------------------------------------------------------------------------------------
 Please note that for Users with Five Band Boards or Seven Band Boards that it is highly recommended that you use a 
 
@@ -182,18 +183,6 @@ https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/releases/tag
 ACKNOWLEDGEMENT:
 
 DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link to his website: https://github.com/kgoba/ft8_lib. 
-
---------------------------------------------------------------------------------------------------------------------------------
-3D PRINTED CASE
-
-DX FT8 3D Printed Case Link: https://www.thingiverse.com/thing:6847793
-
- From this link you can download 3D printable case for DX FT8 which makes it pretty protective and convenient for portable operations.
-
- This 3D printed case is designed by ZL1DMM/Dave. Thank you Dave for designing this excellent 3D printable case for DX FT8 Transceiver.
-
- ![large_display_IMG_20241127_194136](https://github.com/user-attachments/assets/80376cca-b342-4463-8e1c-0aa2e032ad22)
-
 
 ---------------------------------------------------------------------------------------------------------------------------------
 KIT ORDERING INFO:
