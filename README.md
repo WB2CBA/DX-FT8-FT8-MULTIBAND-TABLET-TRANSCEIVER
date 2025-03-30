@@ -7,11 +7,43 @@
 DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9.2 Release Notes: 3 March 2025
+DX FT8 Project Firmware Version 1.9.3 Release Notes: 31 March 2025
 
-This version of the firmware was written to include SOTA / POTA calling CQ plus the ability to send Free Text messages.
+This version of the firmware updated to include SOTA / POTA calling CQ plus the ability to send Free Text messages.
 
-The SOTA / POTA capability was developed by Wei, AG6AU.
+You can choose 4 type of CQ under tune menu with assigned buttons:
+
+CQ [YourCall] [YourGrid]
+
+CQ POTA [YourCall] [YourGrid]
+
+CQ SOTA [YourCall] [YourGrid]
+
+CQ QRP [YourCall] [YourGrid]
+
+If you're interested in free text, you can add 2 fields in StationData.txt
+
+[YourCall]:[YourGrid]:[Free Text 1]:[Free Text 2]
+
+Free Text can be 1 to 27 characters in the range of [ 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ+-./?]
+
+To choose between CQ and Free Text, click the Free1 and Free2 buttons  under Tune menu
+
+Preferred CQ Button choice is displayed in main screen. 
+
+- Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
+
+To turn the Display back On, touch anywhere on the screen. This reduces the current draw by about 100 MADC. 
+
+---------------------------------------------------------------------------------------------------------------------------------
+   ![Touchscreen Blanking](https://github.com/user-attachments/assets/5200658a-2ce7-4d6f-93e6-4fd22537c68c)
+
+----------------------------------------------------------------------------------------------------------------------------------
+- The Audio DSP Algorithms have been modified to improve Unwanted Side Band Suppression.
+
+- The Firmware is now being provided as a HEX File to make installation via ST Link easier.
+
+The SOTA / POTA capability was initially developed by Wei, AG6AU.
 
 Here is a link to Wei’s GitHub Repository:
 
@@ -25,38 +57,8 @@ https://dxft8.groups.io/g/main/message/300
 
 https://dxft8.groups.io/g/main/message/302
 
-Instructions by Wei, AG6AU how to setup and use SOTA/POTA capable latest release:
----------------------------------------------------------------------------------
-You can choose 4 type of CQ under tune menu:
 
-CQ [YourCall] [YourGrid]
-
-CQ DX [YourCall] [YourGrid]
-
-CQ POTA [YourCall] [YourGrid]
-
-CQ SOTA [YourCall] [YourGrid]
- 
-If you're interested in free text, you can add 1 or 2 fields in StationData.txt
-
-[YourCall]:[YourGrid]:[Free Text 1]:[Free Text 2]
-
-Free Text can be 1 to 13 characters in the range of [ 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ+-./?]
-
-To choose between CQ and Free Text, click the button next to Tune, originally called Rcv/Xmit.
-
-- Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
-
-To turn the Display back On, touch anywhere on the screen. This reduces the current draw by about 100 MADC. 
-
-Please see the graphic below.
-
-- The Audio DSP Algorithms have been modified to improve Unwanted Side Band Suppression.
-
-- The Firmware is now being provided as a HEX File to make installation via ST Link easier.
-   ![Touchscreen Blanking](https://github.com/user-attachments/assets/5200658a-2ce7-4d6f-93e6-4fd22537c68c)
-
-----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excellent 3D case design.
  ![large_display_IMG_20241127_194136](https://github.com/user-attachments/assets/80376cca-b342-4463-8e1c-0aa2e032ad22)
 ----------------------------------------------------------------------------------------------------------------------------------
