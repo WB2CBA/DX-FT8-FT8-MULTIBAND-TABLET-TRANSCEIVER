@@ -77,7 +77,7 @@ Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 
 
 - ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, for his contributions to refine and refactor DX FT8 Firmware as well
 
-  as adding new features and cleaning the code. Paul's contributions are reflected in DX FT8 V1.9.2 firmware.
+  as adding new features and cleaning the code. Paul's contributions are reflected in DX FT8 firmware.
   
 ----------------------------------------------------------------------------------------------------------------------------------------------  
 
