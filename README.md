@@ -21,8 +21,8 @@ CQ SOTA [YourCall] [YourGrid]
 
 CQ QRP [YourCall] [YourGrid]
 
-If you're interested in free text, you can add 2 fields in StationData.txt
-
+If you're interested in free text to add your preferred call text, you can add 2 fields in StationData.txt
+----------------------------------------------------------------------------------------------------------
 [YourCall]:[YourGrid]:[Free Text 1]:[Free Text 2]
 
 Free Text can be 1 to 27 characters in the range of [ 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ+-./?]
