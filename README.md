@@ -2,7 +2,7 @@
 
 ![IMG_2011](https://github.com/user-attachments/assets/36db0864-356a-4503-b567-8c01f2cb571e)
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 DX FT8 TRANSCEIVER PROJECT is a collaboration between Charles(Charley)Hill, W5BAA and Barbaros(Barb)Asuroglu, WB2CBA.
 
@@ -174,17 +174,16 @@ Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 
 
 - An Abstract outlining DX FT8 Conception and Design path as a PDF file added.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 - ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, for his contributions to refine and refactor DX FT8 Firmware as well
 
   as adding new features and cleaning the code. Paul's contributions are reflected in DX FT8 firmware.
-  
-----------------------------------------------------------------------------------------------------------------------------------------------  
 
   Check Paul's github page for latest source code files:  https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/
   
 --------------------------------------------------------------------------------------------------------------------------------
 
----------------------------------------------------------------------------------------------------------------------------------
 KIT ORDERING INFO:
 ---------------------------------------------------------------------------------------------------------------------------------
 All DXFT8 Kit shipments after 14 January 2025 will be 7 Band DXFT8 kits and that the firmware will support both the 5 Band and 7 Band units. 
