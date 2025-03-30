@@ -81,7 +81,7 @@ Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 
   
 ----------------------------------------------------------------------------------------------------------------------------------------------  
 
-  Check Paul's github page for latest source code files: https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/releases/tag/
+  Check Paul's github page for latest source code files:  https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/
   
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
