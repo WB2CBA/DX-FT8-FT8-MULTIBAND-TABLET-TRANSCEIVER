@@ -108,7 +108,7 @@ DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
 DX FT8 Project Firmware Version 1.9.3 Release Notes: 31 March 2025
-
+-
 THe major change in V1.9.3 comes in FT8 Traffic exchange to be inline with handling various types of Call messages.
 
 This version of the firmware also updated to include SOTA / POTA / QRP calling CQ plus the ability to send Free Text messages.
