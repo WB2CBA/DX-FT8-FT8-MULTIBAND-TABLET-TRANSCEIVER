@@ -66,7 +66,8 @@ https://dxft8.groups.io/g/main/message/302
 
 ---------------------------------------------------------------------------------------------------------------------------------
 DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excellent 3D case design.
- ![large_display_IMG_20241127_194136](https://github.com/user-attachments/assets/80376cca-b342-4463-8e1c-0aa2e032ad22)
+![IMG_2033](https://github.com/user-attachments/assets/88e9b8ac-b20d-4a34-907f-2210f0ff66a0)
+ 
 ----------------------------------------------------------------------------------------------------------------------------------
 Please note that for Users with Five Band Boards or Seven Band Boards that it is highly recommended that you use a 
 
