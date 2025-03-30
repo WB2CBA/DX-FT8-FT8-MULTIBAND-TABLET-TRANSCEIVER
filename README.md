@@ -3,87 +3,6 @@
 ![IMG_2011](https://github.com/user-attachments/assets/36db0864-356a-4503-b567-8c01f2cb571e)
 
 
-----------------------------------------------------------------------------------------------------------------------------------
-
-DX FT8 FIRMWARE UPDATE HISTORY:
-
-----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9.3 Release Notes: 31 March 2025
-
-THe major change in V1.9.3 comes in FT8 Traffic exchange to be inline with handling various types of Call messages.
-
-This version of the firmware also updated to include SOTA / POTA / QRP calling CQ plus the ability to send Free Text messages.
-
-You can choose 4 type of CQ under tune menu with assigned buttons:
-![IMG_2012](https://github.com/user-attachments/assets/e2b0294d-7ba5-4f67-bd8a-4e218d1b6a48)
-
-CQ [YourCall] [YourGrid]
-
-CQ POTA [YourCall] [YourGrid]
-
-CQ SOTA [YourCall] [YourGrid]
-
-CQ QRP [YourCall] [YourGrid]
-
-If you're interested in free text to add your preferred call text, you can add 2 fields in StationData.txt
-----------------------------------------------------------------------------------------------------------
-[YourCall]:[YourGrid]:[Free Text 1]:[Free Text 2]
-
-Free Text can be 1 to 27 characters in the range of [ 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ+-./?]
-
-To choose between CQ and Free Text, click the Free1 and Free2 buttons  under Tune menu
-
-Preferred CQ Button choice is displayed in main screen. 
-
-- Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
-
-To turn the Display back On, touch anywhere on the screen. This reduces the current draw by about 100 mA DC. 
-
----------------------------------------------------------------------------------------------------------------------------------
-   ![Touchscreen Blanking](https://github.com/user-attachments/assets/5200658a-2ce7-4d6f-93e6-4fd22537c68c)
-
-----------------------------------------------------------------------------------------------------------------------------------
-- The Audio DSP Algorithms have been modified to improve Unwanted Side Band Suppression.
-
-- The Firmware is now being provided as a HEX File to make installation via ST Link easier.
-
--------------------------------------------------------------------------------------------------------------------------------
-
-The SOTA / POTA capability was initially developed by Wei, AG6AU.
-
-Here is a link to Wei’s GitHub Repository:
-
-https://github.com/wcheng95/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/tree/main
-
-Many thanks to Wei and hopefully others will use the Open Source Code to make great additions to the code.
-
-WEI, AG6AQ's Instructions how to setup and use DX FT8 on SOTA/POTA mode is in these links:
-
-https://dxft8.groups.io/g/main/message/300
-
-https://dxft8.groups.io/g/main/message/302
-
-
----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excellent 3D case design.
-![IMG_2033](https://github.com/user-attachments/assets/88e9b8ac-b20d-4a34-907f-2210f0ff66a0)
- 
-----------------------------------------------------------------------------------------------------------------------------------
-Please note that for Users with Five Band Boards or Seven Band Boards that it is highly recommended that you use a 
-
-Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 V1.9 for the first time.
-
-- An Abstract outlining DX FT8 Conception and Design path as a PDF file added.
-
-- ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, for his contributions to refine and refactor DX FT8 Firmware as well
-
-  as adding new features and cleaning the code. Paul's contributions are reflected in DX FT8 firmware.
-  
-----------------------------------------------------------------------------------------------------------------------------------------------  
-
-  Check Paul's github page for latest source code files:  https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/
-  
-----------------------------------------------------------------------------------------------------------------------------------------------
 
 DX FT8 TRANSCEIVER PROJECT is a collaboration between Charles(Charley)Hill, W5BAA and Barbaros(Barb)Asuroglu, WB2CBA.
 
@@ -179,19 +98,91 @@ DX FT8 Transceiver has two RF Power Output Selection, LOW RF POWER and HIGH RF P
 -	A short video of DX FT8 in action:
   https://www.youtube.com/watch?v=8b2WOxESAVU
 
-- DX FT8 PROJECT FIRMWARE STM IDE Environment Source code files can be downloaded from this link:
-
-https://drive.google.com/drive/folders/1oobpyw1_IDn4CDS9kfwyihfSv9H_CrcM?usp=sharing
-
-Source file is too large to upload to Github. To circumvent around Github file size restriction, a google drive solution is preferred.
-
-The most recent version can be downloaded from this link:
-
-https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/releases/tag/untagged-cf0e12cb6f30d0435487
-
 ACKNOWLEDGEMENT:
 
 DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link to his website: https://github.com/kgoba/ft8_lib. 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+DX FT8 FIRMWARE UPDATE HISTORY:
+
+----------------------------------------------------------------------------------------------------------------------------------
+DX FT8 Project Firmware Version 1.9.3 Release Notes: 31 March 2025
+
+THe major change in V1.9.3 comes in FT8 Traffic exchange to be inline with handling various types of Call messages.
+
+This version of the firmware also updated to include SOTA / POTA / QRP calling CQ plus the ability to send Free Text messages.
+
+You can choose 4 type of CQ under tune menu with assigned buttons:
+![IMG_2012](https://github.com/user-attachments/assets/e2b0294d-7ba5-4f67-bd8a-4e218d1b6a48)
+
+CQ [YourCall] [YourGrid]
+
+CQ POTA [YourCall] [YourGrid]
+
+CQ SOTA [YourCall] [YourGrid]
+
+CQ QRP [YourCall] [YourGrid]
+
+If you're interested in free text to add your preferred call text, you can add 2 fields in StationData.txt
+----------------------------------------------------------------------------------------------------------
+[YourCall]:[YourGrid]:[Free Text 1]:[Free Text 2]
+
+Free Text can be 1 to 27 characters in the range of [ 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ+-./?]
+
+To choose between CQ and Free Text, click the Free1 and Free2 buttons  under Tune menu
+
+Preferred CQ Button choice is displayed in main screen. 
+
+- Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
+
+To turn the Display back On, touch anywhere on the screen. This reduces the current draw by about 100 mA DC. 
+
+---------------------------------------------------------------------------------------------------------------------------------
+   ![Touchscreen Blanking](https://github.com/user-attachments/assets/5200658a-2ce7-4d6f-93e6-4fd22537c68c)
+
+----------------------------------------------------------------------------------------------------------------------------------
+- The Audio DSP Algorithms have been modified to improve Unwanted Side Band Suppression.
+
+- The Firmware is now being provided as a HEX File to make installation via ST Link easier.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+The SOTA / POTA capability was initially developed by Wei, AG6AU.
+
+Here is a link to Wei’s GitHub Repository:
+
+https://github.com/wcheng95/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/tree/main
+
+Many thanks to Wei and hopefully others will use the Open Source Code to make great additions to the code.
+
+WEI, AG6AQ's Instructions how to setup and use DX FT8 on SOTA/POTA mode is in these links:
+
+https://dxft8.groups.io/g/main/message/300
+
+https://dxft8.groups.io/g/main/message/302
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excellent 3D case design.
+![IMG_2033](https://github.com/user-attachments/assets/88e9b8ac-b20d-4a34-907f-2210f0ff66a0)
+ 
+----------------------------------------------------------------------------------------------------------------------------------
+Please note that for Users with Five Band Boards or Seven Band Boards that it is highly recommended that you use a 
+
+Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 V1.9 for the first time.
+
+- An Abstract outlining DX FT8 Conception and Design path as a PDF file added.
+
+- ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, for his contributions to refine and refactor DX FT8 Firmware as well
+
+  as adding new features and cleaning the code. Paul's contributions are reflected in DX FT8 firmware.
+  
+----------------------------------------------------------------------------------------------------------------------------------------------  
+
+  Check Paul's github page for latest source code files:  https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/
+  
+--------------------------------------------------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------------------------------------------------------
 KIT ORDERING INFO:
