@@ -1,6 +1,7 @@
 # DX FT8  A MULTIBAND FT8 DIGITAL MODE 5 BANDS OR 7 BANDS TABLET TRANSCEIVER
 
-![DX FT8 INTRO](https://github.com/user-attachments/assets/408df1d6-2f16-4091-8fff-48c7fffb95d2)
+![IMG_2011](https://github.com/user-attachments/assets/36db0864-356a-4503-b567-8c01f2cb571e)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -12,6 +13,7 @@ DX FT8 Project Firmware Version 1.9.3 Release Notes: 31 March 2025
 This version of the firmware updated to include SOTA / POTA calling CQ plus the ability to send Free Text messages.
 
 You can choose 4 type of CQ under tune menu with assigned buttons:
+![IMG_2012](https://github.com/user-attachments/assets/e2b0294d-7ba5-4f67-bd8a-4e218d1b6a48)
 
 CQ [YourCall] [YourGrid]
 
@@ -33,7 +35,7 @@ Preferred CQ Button choice is displayed in main screen.
 
 - Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
 
-To turn the Display back On, touch anywhere on the screen. This reduces the current draw by about 100 MADC. 
+To turn the Display back On, touch anywhere on the screen. This reduces the current draw by about 100 mA DC. 
 
 ---------------------------------------------------------------------------------------------------------------------------------
    ![Touchscreen Blanking](https://github.com/user-attachments/assets/5200658a-2ce7-4d6f-93e6-4fd22537c68c)
