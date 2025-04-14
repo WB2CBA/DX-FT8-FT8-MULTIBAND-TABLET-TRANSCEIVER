@@ -4,6 +4,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+DX FT8 TRANSCEIVER BUILD GUIDE CAN BE USED BOTH FOR 5 BAND VERSION AND 7 BAND VERSION. BOTH VERSIONS ARE IDENTICAL IN BUILD DETAILS.
+
+ONLY DIFFERENCE IS BAND COVERAGE.
+----------------------------------------------------------------------------------------------------------------------------------------------------
 DX FT8 TRANSCEIVER PROJECT is a collaboration between Charles(Charley)Hill, W5BAA and Barbaros(Barb)Asuroglu, WB2CBA.
 
 DX FT8 Project is brain child of Charles(Charley)Hill, W5BAA. Charley designed and build various versions of GUI based FT8 Transceivers over the years. 
