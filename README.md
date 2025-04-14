@@ -3,7 +3,7 @@
 ![IMG_2011](https://github.com/user-attachments/assets/36db0864-356a-4503-b567-8c01f2cb571e)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 DX FT8 TRANSCEIVER BUILD GUIDE CAN BE USED BOTH FOR 5 BAND VERSION AND 7 BAND VERSION. BOTH VERSIONS ARE IDENTICAL IN BUILD DETAILS.
 
 ONLY DIFFERENCE IS BAND COVERAGE.
