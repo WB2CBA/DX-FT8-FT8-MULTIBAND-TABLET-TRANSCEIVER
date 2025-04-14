@@ -1,0 +1,16 @@
+text.c:9:14:trim_front	0	static
+text.c:17:6:trim_back	8	static
+text.c:27:8:trim	8	static
+text.c:34:6:to_upper	0	static
+text.c:38:7:is_digit	0	static
+text.c:42:7:is_letter	0	static
+text.c:46:7:is_space	0	static
+text.c:50:7:in_range	0	static
+text.c:54:7:starts_with	16	static
+text.c:58:7:equals	8	static
+text.c:63:5:char_index	8	static
+text.c:76:6:fmtmsg	8	static
+text.c:92:5:dd_to_int	20	static
+text.c:118:6:int_to_dd	12	static
+text.c:153:6:charn	0	static
+text.c:178:5:nchar	8	static

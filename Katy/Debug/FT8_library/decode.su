@@ -1,0 +1,2 @@
+decode.c:34:5:find_sync	104	static
+decode.c:122:6:extract_likelihood	72	static

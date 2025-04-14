@@ -1,0 +1,17 @@
+stm32746g_discovery_sd.c:213:9:BSP_SD_ITConfig	32	static
+stm32746g_discovery_sd.c:235:9:BSP_SD_IsDetected	16	static
+stm32746g_discovery_sd.c:256:9:BSP_SD_ReadBlocks	16	static
+stm32746g_discovery_sd.c:276:9:BSP_SD_WriteBlocks	16	static
+stm32746g_discovery_sd.c:296:9:BSP_SD_ReadBlocks_DMA	16	static
+stm32746g_discovery_sd.c:330:9:BSP_SD_WriteBlocks_DMA	16	static
+stm32746g_discovery_sd.c:362:9:BSP_SD_Erase	16	static
+stm32746g_discovery_sd.c:380:13:BSP_SD_MspInit	96	static
+stm32746g_discovery_sd.c:479:13:BSP_SD_Detect_MspInit	32	static
+stm32746g_discovery_sd.c:139:9:BSP_SD_Init	16	static
+stm32746g_discovery_sd.c:499:13:BSP_SD_MspDeInit	8	static
+stm32746g_discovery_sd.c:190:9:BSP_SD_DeInit	16	static
+stm32746g_discovery_sd.c:533:6:BSP_SD_IRQHandler	0	static
+stm32746g_discovery_sd.c:542:6:BSP_SD_DMA_Tx_IRQHandler	0	static
+stm32746g_discovery_sd.c:551:6:BSP_SD_DMA_Rx_IRQHandler	0	static
+stm32746g_discovery_sd.c:564:29:BSP_SD_GetStatus	0	static
+stm32746g_discovery_sd.c:574:6:BSP_SD_GetCardInfo	0	static
