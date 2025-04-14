@@ -19,7 +19,7 @@ I can't thank enough Charley for his excellent GUI FT8 Firmware and his persever
 It's a pleasure for me to collaborate with Charley,W5BAA, on hardware side, RF design and PCB design of DX FT8 Transceiver.
 
 DX FT8 is an OPEN SOURCE PROJECT.
-
+---------------------------------
 DX FT8 is a FT8 Digital mode capable HF QRPp GUI (Graphical User Interface) based multiband Transceiver.
 
 DX FT8 is abreviation for Digital Xceiver for FT8. 
