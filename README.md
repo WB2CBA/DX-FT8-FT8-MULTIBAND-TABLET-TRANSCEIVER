@@ -117,26 +117,7 @@ by default but will the logging state will remain over a device power off and on
 
 controlled by on option in the ‘Tune’ menu.
 
- Additionally free text messages now support more options.
- 
- The following examples are all valid examples of free text messages.
- 
-    CQ QRPP 2E1HGA/P IO92 
-    
-    CQ EU   2E1HGA 
-    
-    CQ GQRP 2E1HGA/P 
-    
-    CQ JOTA 2E1HGA/P IO92
-
 ![V1 9 4 Tune screenshot](https://github.com/user-attachments/assets/663c1a57-7cf5-4eb5-a793-13cf2ab16040)
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9.3 Release Notes: 31 March 2025
--
-THe major change in V1.9.4 comes in FT8 Traffic exchange to be inline with handling various types of Call messages.
 
 This version of the firmware also updated to include SOTA / POTA / QRP calling CQ plus the ability to send Free Text messages.
 
@@ -156,6 +137,18 @@ If you're interested in free text to add your preferred call text, you can add 2
 [YourCall]:[YourGrid]:[Free Text 1]:[Free Text 2]
 
 Free Text can be 1 to 27 characters in the range of [ 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ+-./?]
+
+ Additionally free text messages now support more options.
+ 
+ The following examples are all valid examples of free text messages.
+ 
+    CQ QRPP 2E1HGA/P IO92 
+    
+    CQ EU   2E1HGA 
+    
+    CQ GQRP 2E1HGA/P 
+    
+    CQ JOTA 2E1HGA/P IO92
 
 To choose between CQ and Free Text, click the Free1 and Free2 buttons  under Tune menu
 
