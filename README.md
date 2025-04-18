@@ -134,7 +134,7 @@ controlled by on option in the ‘Tune’ menu.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9.3 Release Notes: 31 March 2025
+DX FT8 Project Firmware Version 1.9.4 Release Notes: 31 March 2025
 -
 THe major change in V1.9.4 comes in FT8 Traffic exchange to be inline with handling various types of Call messages.
 
