@@ -107,11 +107,36 @@ DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link t
 ----------------------------------------------------------------------------------------------------------------------------------
 
 DX FT8 FIRMWARE UPDATE HISTORY:
--
+
+----------------------------------------------------------------------------------------------------------------------------------
+DX FT8 Project Firmware Version 1.9.3 Release Notes: 18 April 2025
+----------------------------------------------------------------------------------------------------------------------------------
+The new feature in this release is to allow logging to be enabled and disabled. Logging is enabled 
+
+by default but will the logging state will remain over a device power off and on. Logging is 
+
+controlled by on option in the ‘Tune’ menu.
+
+ Additionally free text messages now support more options.
+ 
+ The following examples are all valid examples of free text messages.
+ 
+    CQ QRPP 2E1HGA/P IO92 
+    
+    CQ EU   2E1HGA 
+    
+    CQ GQRP 2E1HGA/P 
+    
+    CQ JOTA 2E1HGA/P IO92
+
+![V1 9 4 Tune screenshot](https://github.com/user-attachments/assets/663c1a57-7cf5-4eb5-a793-13cf2ab16040)
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------
 DX FT8 Project Firmware Version 1.9.3 Release Notes: 31 March 2025
 -
-THe major change in V1.9.3 comes in FT8 Traffic exchange to be inline with handling various types of Call messages.
+THe major change in V1.9.4 comes in FT8 Traffic exchange to be inline with handling various types of Call messages.
 
 This version of the firmware also updated to include SOTA / POTA / QRP calling CQ plus the ability to send Free Text messages.
 
