@@ -112,10 +112,9 @@ DX FT8 FIRMWARE UPDATE HISTORY:
 DX FT8 Project Firmware Version 1.9.4 Release Notes: 18 April 2025
 ----------------------------------------------------------------------------------------------------------------------------------
 A new feature in this release is to allow logging to be enabled and disabled. Logging is enabled 
+by default.
 
-by default but will the logging state will remain over a device power off and on. Logging is 
-
-controlled by on option in the ‘Tune’ menu.
+Logging is controlled by on option in the ‘Tune’ menu.
 
 ![V1 9 4 Tune screenshot](https://github.com/user-attachments/assets/663c1a57-7cf5-4eb5-a793-13cf2ab16040)
 
