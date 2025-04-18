@@ -111,7 +111,7 @@ DX FT8 FIRMWARE UPDATE HISTORY:
 ----------------------------------------------------------------------------------------------------------------------------------
 DX FT8 Project Firmware Version 1.9.4 Release Notes: 18 April 2025
 ----------------------------------------------------------------------------------------------------------------------------------
-The new feature in this release is to allow logging to be enabled and disabled. Logging is enabled 
+A new feature in this release is to allow logging to be enabled and disabled. Logging is enabled 
 
 by default but will the logging state will remain over a device power off and on. Logging is 
 
@@ -121,8 +121,7 @@ controlled by on option in the ‘Tune’ menu.
 
 This version of the firmware also updated to include SOTA / POTA / QRP calling CQ plus the ability to send Free Text messages.
 
-You can choose 4 type of CQ under tune menu with assigned buttons:
-![IMG_2012](https://github.com/user-attachments/assets/e2b0294d-7ba5-4f67-bd8a-4e218d1b6a48)
+You can choose 4 type of CQ under tune menu with assigned buttons
 
 CQ [YourCall] [YourGrid]
 
