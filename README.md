@@ -109,7 +109,7 @@ DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link t
 DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9.3 Release Notes: 18 April 2025
+DX FT8 Project Firmware Version 1.9.4 Release Notes: 18 April 2025
 ----------------------------------------------------------------------------------------------------------------------------------
 The new feature in this release is to allow logging to be enabled and disabled. Logging is enabled 
 
@@ -134,7 +134,7 @@ controlled by on option in the ‘Tune’ menu.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9.4 Release Notes: 31 March 2025
+DX FT8 Project Firmware Version 1.9.3 Release Notes: 31 March 2025
 -
 THe major change in V1.9.4 comes in FT8 Traffic exchange to be inline with handling various types of Call messages.
 
