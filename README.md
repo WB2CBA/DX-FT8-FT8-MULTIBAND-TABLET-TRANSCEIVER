@@ -204,6 +204,11 @@ Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 
 
 KIT ORDERING INFO:
 ---------------------------------------------------------------------------------------------------------------------------------
+
+> **CURRENT DXFT8 KIT ORDERING STATUS 4/14/25**
+>
+> I am receiving PayPals from several members and have returned all of them. With the CHINA-USA tariff situation what it is I can not estimate the total costs. Please don't send a PayPal for "estimates" either. Let the dust settle before ordering. Your name will be added to the "I want a "Battery 7 Band DXFT8 Kit List" which I will provide to the group by the middle of the week. 
+
 All DXFT8 Kit shipments after 14 January 2025 will be 7 Band DXFT8 kits and that the firmware will support both the 5 Band and 7 Band units. 
 
 There is nothing operationally different between the two except the additional bands covered.
