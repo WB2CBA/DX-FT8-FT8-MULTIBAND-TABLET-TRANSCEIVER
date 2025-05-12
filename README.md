@@ -167,7 +167,7 @@ To turn the Display back On, touch anywhere on the screen. This reduces the curr
 - The Firmware is now being provided as a HEX File to make installation via ST Link easier.
 
 -------------------------------------------------------------------------------------------------------------------------------
-DX FT8 EXperimental Firmware by AG6AQ Wei Cheng is under DX FT8 Firmware directory. Feel free to play with it.
+DX FT8 Experimental Firmware by AG6AQ Wei Cheng is under DX FT8 Firmware directory. Feel free to play with it.
 -------------------------------------------------------------------------------------------------------------------------------
 The SOTA / POTA capability was initially developed by Wei, AG6AU.
 
