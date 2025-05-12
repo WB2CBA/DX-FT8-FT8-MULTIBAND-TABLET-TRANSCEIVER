@@ -208,7 +208,8 @@ Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 
 KIT ORDERING INFO:
 ---------------------------------------------------------------------------------------------------------------------------------
 DUE TO TARIFFS DX FT8 KITS ARE GETTING EXTREMELY EXPENSIVE. WE STOPPED KITTING FOR THE TIME BEING TO WAIT FOR THE TARIFF SITUATION TO SETTLE. 
-NO KITS WILL BE OFFERED AS OF 05/12/2025 UNTIL FURTHER NOTICE. SORRY FOR THE INCONVENIENCE
+NO KITS WILL BE OFFERED AS OF 05/12/2025 UNTIL FURTHER NOTICE. SORRY FOR THE INCONVENIENCE. 
+BELOW OUTLINED DETAILS ARE ONLY FOR INFORMATION.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 All DXFT8 Kit shipments after APRIL 2025 will be 7 Band BATTERY MANAGEMENT SYSTEM INCLUDED DXFT8 kits and that the firmware will support both the 5 Band and 7 Band units. 
 
