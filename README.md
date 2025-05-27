@@ -111,8 +111,81 @@ DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link t
 DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9.4 Release Notes: 18 April 2025
+DX FT8 Project Firmware Version 1.9.5 Release Notes: 27 May 2025
 ----------------------------------------------------------------------------------------------------------------------------------
+This release introduces a new configuration file format based on the .INI file format. 
+
+The existing ‘StationData.txt’ format continues to be supported however the new format is 
+recommended because it is much more tolerant of formatting errors. 
+
+It should be named ‘StationData.ini’ placed in the root directory of the SDCard. 
+
+Delete the StationData.txt file to use the ‘StationData.ini’ file. 
+
+All new features will be enabled using StationData.ini file. 
+
+StationData.txt is now deprecated. 
+
+Leading and trailing spaces and comment lines are permitted. Comment lines start with ‘;’ or ‘#’.
+
+ [Station] 
+
+Call=G8KIG 
+
+Locator=IO91 
+
+[FreeText] 
+
+1=Free text 1 
+
+2=Free text 2 
+
+[BandData] 
+40=7.174 
+
+30=10.136 
+
+20=14.174 
+
+17=18.201 
+
+15=21.174 
+
+12=24.925 
+
+10=28.174 
+
+There are three sections in the file; ‘Station’, ‘FreeText’ and ‘BandData’. 
+
+Only the first section ‘Station’ is required. 
+
+The Call and Locator is configured in this Station section. 
+
+In the ‘FreeText’ section, up to two free text messages can be configured. 
+
+The final section ‘BandData’ introduces a new feature:
+
+ The frequency used by the transceiver for each band can be modified. 
+
+The 40M and 20M frequencies only apply to the 7-band transceiver.
+
+ e.g. the Japan domestic FT8 frequency on 40m is 7.041Mhz, so the ‘BandData’ section to 
+configure this would be
+ 
+ [BandData] 
+40=7.041 
+
+Bug fixes:
+ 
+ From Charley W5BAA:
+ 
+ •FT8 transmissions were being sent anything up to 1.0 seconds before other 
+implementations, transmissions are now being sent around 0.2 seconds into the time 
+slot.
+
+ •When an FT8 contact is made in Beacon Mode the contact is now not logged until either 
+a 73 or RR73 message is received from the target station
+ 
 A new feature in this release is to allow logging to be enabled and disabled. Logging is enabled 
 by default.
 
