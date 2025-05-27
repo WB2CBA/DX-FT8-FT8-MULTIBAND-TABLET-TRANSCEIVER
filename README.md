@@ -115,6 +115,8 @@ DX FT8 Project Firmware Version 1.9.5 Release Notes: 27 May 2025
 ----------------------------------------------------------------------------------------------------------------------------------
 This release introduces a new configuration file format based on the .INI file format. 
 
+Release Source Code Files are under DX FT8 FIRMWARE SOURCE CODE FILES Directory. 
+
 The existing ‘StationData.txt’ format continues to be supported however the new format is 
 recommended because it is much more tolerant of formatting errors. 
 
