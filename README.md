@@ -193,39 +193,6 @@ Logging is controlled by on option in the ‘Tune’ menu.
 
 ![V1 9 4 Tune screenshot](https://github.com/user-attachments/assets/663c1a57-7cf5-4eb5-a793-13cf2ab16040)
 
-This version of the firmware also updated to include SOTA / POTA / QRP calling CQ plus the ability to send Free Text messages.
-
-You can choose 4 type of CQ under tune menu with assigned buttons
-
-CQ [YourCall] [YourGrid]
-
-CQ POTA [YourCall] [YourGrid]
-
-CQ SOTA [YourCall] [YourGrid]
-
-CQ QRP [YourCall] [YourGrid]
-
-If you're interested in free text to add your preferred call text, you can add 2 fields in StationData.txt
-----------------------------------------------------------------------------------------------------------
-[YourCall]:[YourGrid]:[Free Text 1]:[Free Text 2]
-
-Free Text can be 1 to 27 characters in the range of [ 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ+-./?]
-
- Additionally free text messages now support more options.
- 
- The following examples are all valid examples of free text messages.
- 
-    CQ QRPP 2E1HGA/P IO92 
-    
-    CQ EU   2E1HGA 
-    
-    CQ GQRP 2E1HGA/P 
-    
-    CQ JOTA 2E1HGA/P IO92
-
-To choose between CQ and Free Text, click the Free1 and Free2 buttons  under Tune menu
-
-Preferred CQ Button choice is displayed in main screen. 
 
 - Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
 
