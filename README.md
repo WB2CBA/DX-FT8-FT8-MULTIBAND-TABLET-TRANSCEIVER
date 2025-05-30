@@ -198,13 +198,6 @@ slot.
  •When an FT8 contact is made in Beacon Mode the contact is now not logged until either 
 a 73 or RR73 message is received from the target station
  
-A new feature in this release is to allow logging to be enabled and disabled. Logging is enabled 
-by default.
-
-Logging is controlled by on option in the ‘Tune’ menu.
-
-![V1 9 4 Tune screenshot](https://github.com/user-attachments/assets/663c1a57-7cf5-4eb5-a793-13cf2ab16040)
-
 ----------------------------------------------------------------------------------------------------------------------------------
 - The Audio DSP Algorithms have been modified to improve Unwanted Side Band Suppression.
 
