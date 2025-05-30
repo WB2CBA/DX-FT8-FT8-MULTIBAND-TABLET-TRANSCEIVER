@@ -3,7 +3,7 @@
 ![IMG_2011](https://github.com/user-attachments/assets/36db0864-356a-4503-b567-8c01f2cb571e)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-DX FT8 TRANSCEIVER BUILD AND OPERATION GUIDE CAN BE USED BOTH FOR OLDER 5 BAND VERSION AND 7 BAND VERSION without Internal Battery. 
+DX FT8 TRANSCEIVER BUILD AND OPERATION GUIDE CAN BE USED FOR OLDER 5 BAND VERSION AND 7 BAND VERSION without Internal Battery. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ALL VERSIONS ARE IDENTICAL IN BUILD AND OPERATION DETAILS EXCEPT THE OPTIONAL INTERNAL BATTERY INSTALLATION ON V2.1 BMS 7 BAND BOARD.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
