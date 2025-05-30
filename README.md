@@ -205,14 +205,6 @@ Logging is controlled by on option in the ‘Tune’ menu.
 
 ![V1 9 4 Tune screenshot](https://github.com/user-attachments/assets/663c1a57-7cf5-4eb5-a793-13cf2ab16040)
 
-
-- Display Blanking has been added. To BLANK the Display, touch the very Upper Right Hand Corner of the Display.
-
-To turn the Display back On, touch anywhere on the screen. This reduces the current draw by about 100 mA DC. 
-
----------------------------------------------------------------------------------------------------------------------------------
-   ![Touchscreen Blanking](https://github.com/user-attachments/assets/5200658a-2ce7-4d6f-93e6-4fd22537c68c)
-
 ----------------------------------------------------------------------------------------------------------------------------------
 - The Audio DSP Algorithms have been modified to improve Unwanted Side Band Suppression.
 
