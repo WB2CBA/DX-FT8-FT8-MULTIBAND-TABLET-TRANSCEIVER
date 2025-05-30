@@ -111,8 +111,17 @@ DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link t
 DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9.5 Release Notes: 27 May 2025
+DX FT8 Project Firmware Version 1.9.6 Release Notes: 30 May 2025
 ----------------------------------------------------------------------------------------------------------------------------------
+ Further on air testing has revealed a flaw with the changes made to allow for repeat RR73 
+messages in V1.9.5.
+
+In the case of being in the Beacon Mode and a Repeat RR73 message is sent, the RSL from 
+
+the Target Station is logged as zero instead of the value sent from the Target Station.
+
+Now, in version V1.9.5 the RSL from the Target Station is logged properly.
+
 This release introduces a new configuration file format based on the .INI file format. 
 
 Release Source Code Files are under DX FT8 FIRMWARE SOURCE CODE FILES Directory. 
