@@ -112,8 +112,10 @@ DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link t
 DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9.6 Release Notes: 30 May 2025
+DX FT8 Project Firmware Version 1.9.7 Release Notes: 09 June 2025
 ----------------------------------------------------------------------------------------------------------------------------------
+V1.9.7 brings improvements and fixes for some DX FT8 rigs with poor reception quality.
+ 
  Further on air testing has revealed a flaw with the changes made to allow for repeat RR73 
 messages in V1.9.5.
 
