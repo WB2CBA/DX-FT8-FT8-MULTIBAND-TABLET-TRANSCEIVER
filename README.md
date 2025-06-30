@@ -207,7 +207,8 @@ a 73 or RR73 message is received from the target station
 - The Firmware is now being provided as a HEX File to make installation via ST Link easier.
 
 -------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Experimental Firmware by AG6AQ Wei Cheng is under DX FT8 Firmware directory. Feel free to play with it.
+DX FT8 Alternate Firmware by N6HAN Zhenxing Han is under DX FT8 Firmware directory. Feel free to play with it.
+Zhenxing Han, N6HAN added many advanced features to DX FT8 on top of official firmware's faetures.
 -------------------------------------------------------------------------------------------------------------------------------
 The SOTA / POTA capability was initially developed by Wei, AG6AU.
 
