@@ -1,0 +1,4 @@
+encode.c:18:9:parity8	0	static
+encode.c:33:6:encode174	40	static
+encode.c:88:10:crc	20	static
+encode.c:125:6:genft8	64	static

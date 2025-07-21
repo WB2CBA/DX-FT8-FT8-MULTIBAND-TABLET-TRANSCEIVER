@@ -1,0 +1,3 @@
+arm_bitreversal.c:53:6:arm_bitreversal_f32	36	static
+arm_bitreversal.c:125:6:arm_bitreversal_q31	48	static
+arm_bitreversal.c:196:6:arm_bitreversal_q15	36	static

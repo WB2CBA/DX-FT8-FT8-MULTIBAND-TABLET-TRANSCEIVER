@@ -1,0 +1,2 @@
+stm32f7xx_hal_sai_ex.c:107:6:SAI_BlockSynchroConfig	0	static
+stm32f7xx_hal_sai_ex.c:148:10:SAI_GetInputClock	0	static
