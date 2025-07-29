@@ -143,6 +143,10 @@ Tap the same button again to finish editing and changes are saved to StationData
 
     Showing worked QSOs for the current session: Tap the middle-right side of the screen to view worked QSOs, tap again to view the next page. (Tips: take photos as a backup in case the SD card fails)
 
+    FOR SOURCE CODE PLEASE VISIT:
+
+    https://github.com/chillmf/DX-FT8-Transceiver-Source-Code_V2
+
 ---------------------------------------------------------------------------------------------------------------------------------
 DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excellent 3D case design.
 ![IMG_2033](https://github.com/user-attachments/assets/88e9b8ac-b20d-4a34-907f-2210f0ff66a0)
