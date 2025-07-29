@@ -113,117 +113,35 @@ DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link t
 DX FT8 FIRMWARE UPDATE HISTORY:
 
 ----------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Project Firmware Version 1.9.7 Release Notes: 09 June 2025
+DX FT8 Project Firmware Version 2.0.0 Release Notes: 29 JULY 2025
 ----------------------------------------------------------------------------------------------------------------------------------
-V1.9.7 brings improvements and fixes for some DX FT8 rigs with poor reception quality.
- 
- Further on air testing has revealed a flaw with the changes made to allow for repeat RR73 
-messages in V1.9.5.
+V2.0.0 includes four major improvements over V1.9.7:
 
-In the case of being in the Beacon Mode and a Repeat RR73 message is sent, the RSL from 
+    TX Queue: You can now click on multiple received messages in either QSO or Becn mode. The firmware will queue appropriate responses, automatically sort them, and transmit the best one for you. 
+    
+    When calling CQ, replies from multiple stations will be queued automatically as well.
 
-the Target Station is logged as zero instead of the value sent from the Target Station.
+    On Device Editing: Six buttons were added under the "Tune" page.
 
-Now, in version V1.9.5 the RSL from the Target Station is logged properly.
+click one of these buttons to activate editing window:
 
-This release introduces a new configuration file format based on the .INI file format. 
+CALL: YourCall or YourCall/P (Note: other prefix/suffix formats aren’t supported)
 
-Release Source Code Files are under DX FT8 FIRMWARE SOURCE CODE FILES Directory. 
+GRID: YourGrid
 
-The existing ‘StationData.txt’ format continues to be supported however the new format is 
-recommended because it is much more tolerant of formatting errors. 
+FREQ: 7074/.../28074 (optional) (Note: the firmware doesn’t validate frequency; make sure it's within the band. Use Band-/Band+ to switch bands.)
 
-It should be named ‘StationData.ini’ placed in the root directory of the SDCard. 
+F1: Free Text 1 (optional) (Free Text also works for "CQ [A-ZZZZ] [YourCall] [YourGrid]")
 
-Delete the StationData.txt file to use the ‘StationData.ini’ file. 
+F2: Free Text 2 (optional)
 
-All new features will be enabled using StationData.ini file. 
+COM: Comments for the session (optional) (This will be added to each QSO in the .ADIF file)
 
-StationData.txt is now deprecated. 
+Tap the same button again to finish editing and changes are saved to StationData.ini.
 
-Leading and trailing spaces and comment lines are permitted. Comment lines start with ‘;’ or ‘#’.
+    Auto-Generated StationData.ini: If no StationData.ini file is found on the SD card, the firmware will create one using an internal template. Just enter your callsign and grid on the device and you're ready to go—even with a blank SD card.
 
- [Station] 
-
-Call=G8KIG 
-
-Locator=IO91 
-
-[FreeText] 
-
-1=Free text 1 
-
-2=Free text 2 
-
-[BandData] 
-40=7.174 
-
-30=10.136 
-
-20=14.174 
-
-17=18.201 
-
-15=21.174 
-
-12=24.925 
-
-10=28.174 
-
-There are three sections in the file; ‘Station’, ‘FreeText’ and ‘BandData’. 
-
-Only the first section ‘Station’ is required. 
-
-The Call and Locator is configured in this Station section. 
-
-In the ‘FreeText’ section, up to two free text messages can be configured. 
-
-The final section ‘BandData’ introduces a new feature:
-
- The frequency used by the transceiver for each band can be modified. 
-
-The 40M and 20M frequencies only apply to the 7-band transceiver.
-
- e.g. the Japan domestic FT8 frequency on 40m is 7.041Mhz, so the ‘BandData’ section to 
-configure this would be
- 
- [BandData] 
-40=7.041 
-
-Bug fixes:
- 
- From Charley W5BAA:
- 
- •FT8 transmissions were being sent anything up to 1.0 seconds before other 
-implementations, transmissions are now being sent around 0.2 seconds into the time 
-slot.
-
- •When an FT8 contact is made in Beacon Mode the contact is now not logged until either 
-a 73 or RR73 message is received from the target station
- 
-----------------------------------------------------------------------------------------------------------------------------------
-- The Audio DSP Algorithms have been modified to improve Unwanted Side Band Suppression.
-
-- The Firmware is now being provided as a HEX File to make installation via ST Link easier.
-
--------------------------------------------------------------------------------------------------------------------------------
-DX FT8 Alternate Firmware by N6HAN Zhenxing Han is under DX FT8 Firmware directory. Feel free to play with it.
-Zhenxing Han, N6HAN added many advanced features to DX FT8 on top of official firmware's faetures.
--------------------------------------------------------------------------------------------------------------------------------
-The SOTA / POTA capability was initially developed by Wei, AG6AU.
-
-Here is a link to Wei’s GitHub Repository:
-
-https://github.com/wcheng95/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/tree/main
-
-Many thanks to Wei and hopefully others will use the Open Source Code to make great additions to the code.
-
-WEI, AG6AQ's Instructions how to setup and use DX FT8 on SOTA/POTA mode is in these links:
-
-https://dxft8.groups.io/g/main/message/300
-
-https://dxft8.groups.io/g/main/message/302
-
+    Showing worked QSOs for the current session: Tap the middle-right side of the screen to view worked QSOs, tap again to view the next page. (Tips: take photos as a backup in case the SD card fails)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excellent 3D case design.
