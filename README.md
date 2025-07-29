@@ -117,11 +117,11 @@ DX FT8 Project Firmware Version 2.0.0 Release Notes: 29 JULY 2025
 ----------------------------------------------------------------------------------------------------------------------------------
 V2.0.0 includes four major improvements over V1.9.7:
 
-    TX Queue: You can now click on multiple received messages in either QSO or Becn mode. The firmware will queue appropriate responses, automatically sort them, and transmit the best one for you. 
+TX Queue: You can now click on multiple received messages in either QSO or Becn mode. The firmware will queue appropriate responses, automatically sort them, and transmit the best one for you. 
     
-    When calling CQ, replies from multiple stations will be queued automatically as well.
+When calling CQ, replies from multiple stations will be queued automatically as well.
 
-    On Device Editing: Six buttons were added under the "Tune" page.
+On Device Editing: Six buttons were added under the "Tune" page.
 
 click one of these buttons to activate editing window:
 
@@ -139,14 +139,14 @@ COM: Comments for the session (optional) (This will be added to each QSO in the 
 
 Tap the same button again to finish editing and changes are saved to StationData.ini.
 
-    Auto-Generated StationData.ini: If no StationData.ini file is found on the SD card, the firmware will create one using an internal template. Just enter your callsign and grid on the device and you're ready to go—even with a blank SD card.
+Auto-Generated StationData.ini: If no StationData.ini file is found on the SD card, the firmware will create one using an internal template. Just enter your callsign and grid on the device and you're ready to go—even with a blank SD card.
 
-    Showing worked QSOs for the current session: Tap the middle-right side of the screen to view worked QSOs, tap again to view the next page. (Tips: take photos as a backup in case the SD card fails)
+Showing worked QSOs for the current session: Tap the middle-right side of the screen to view worked QSOs, tap again to view the next page. (Tips: take photos as a backup in case the SD card fails)
 -------------------------------------------------------------------------------------
     FOR SOURCE CODE PLEASE VISIT:
 
     https://github.com/chillmf/DX-FT8-Transceiver-Source-Code_V2
-
+    
 ---------------------------------------------------------------------------------------------------------------------------------
 DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excellent 3D case design.
 ![IMG_2033](https://github.com/user-attachments/assets/88e9b8ac-b20d-4a34-907f-2210f0ff66a0)
@@ -160,11 +160,11 @@ Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-- ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, for his contributions to refine and refactor DX FT8 Firmware as well
+- ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, Zhenxing han, N6HAN and Wei Cheng, AG6AQ for their contributions to refine and refactor DX FT8 Firmware as well
 
-  as adding new features and cleaning the code. Paul's contributions are reflected in DX FT8 firmware.
+  as adding new features and cleaning the code.
 
-  Check Paul's github page for latest source code files:  https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source/
+  - Karlis Goba for his excellent FT8 Library.
   
 --------------------------------------------------------------------------------------------------------------------------------
 
