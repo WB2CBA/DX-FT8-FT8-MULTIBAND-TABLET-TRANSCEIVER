@@ -161,9 +161,8 @@ Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-- ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, Zhenxing han, N6HAN and Wei Cheng, AG6AQ for their contributions to develop and refactor DX FT8 Firmware
-
-  as adding new features and cleaning the code.
+- ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, Zhenxing han, N6HAN and Wei Cheng, AG6AQ for their contributions to develop and refactor and  
+for adding new features and cleaning the code of DX FT8 Firmware.
 
   - Karlis Goba for his excellent FT8 Library.
   
