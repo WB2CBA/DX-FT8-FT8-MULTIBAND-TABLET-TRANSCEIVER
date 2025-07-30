@@ -103,11 +103,6 @@ DX FT8 Transceiver has two RF Power Output Selection, LOW RF POWER and HIGH RF P
 
 -	A short video of DX FT8 in action:
   https://www.youtube.com/watch?v=8b2WOxESAVU
-
-ACKNOWLEDGEMENT:
-
-DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link to his website: https://github.com/kgoba/ft8_lib. 
-
 ----------------------------------------------------------------------------------------------------------------------------------
 
 DX FT8 FIRMWARE UPDATE HISTORY:
@@ -153,9 +148,12 @@ DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excel
  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-- ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, Zhenxing han, N6HAN and Wei Cheng, AG6AQ for their contributions to develop and adding new features and cleaning the code of DX FT8 Firmware.
+- ACKNOWLEDGEMENT:
 
-  - Karlis Goba for his excellent FT8 Library.
+- We would like to thank Paul Winwood, G8KIG, Zhenxing han, N6HAN and Wei Cheng, AG6AQ for their contributions to develop and adding new features and cleaning the code of DX FT8 Firmware.
+
+- DX-FT8 Firmware is inspired by work done by Karlis Goba, YL3JG. Here is a link to his website: https://github.com/kgoba/ft8_lib.
+    
   
 --------------------------------------------------------------------------------------------------------------------------------
 
