@@ -144,21 +144,13 @@ Auto-Generated StationData.ini: If no StationData.ini file is found on the SD ca
 Showing worked QSOs for the current session: Tap the middle-right side of the screen to view worked QSOs, tap again to view the next page. (Tips: take photos as a backup in case the SD card fails)
 
 --------------------------------------------------------------------
-    FOR SOURCE CODE PLEASE VISIT:
-
+FOR SOURCE CODE PLEASE VISIT:
     https://github.com/chillmf/DX-FT8-Transceiver-Source-Code_V2
----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------
 
 DX FT8 3D PRINTED CASE FILES ADDED. A big Thank You to Dave,ZL1DMM for his excellent 3D case design.
 ![IMG_2033](https://github.com/user-attachments/assets/88e9b8ac-b20d-4a34-907f-2210f0ff66a0)
  
-----------------------------------------------------------------------------------------------------------------------------------
-Please note that for Users with Five Band Boards or Seven Band Boards that it is highly recommended that you use a 
-
-Freshly Formatted SD Card with a Fresh StationData.txt file before using DX FT8 V1.9 for the first time.
-
-- An Abstract outlining DX FT8 Conception and Design path as a PDF file added.
-
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 - ACKNOWLEDGEMENT: We would like to thank Paul Winwood, G8KIG, Zhenxing han, N6HAN and Wei Cheng, AG6AQ for their contributions to develop and refactor and  
