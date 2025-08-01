@@ -2,7 +2,7 @@
 
 ![IMG_2011](https://github.com/user-attachments/assets/36db0864-356a-4503-b567-8c01f2cb571e)
 
-FOR DX FT8 KIT INFORMATION AND ALL RELATED DISCUSSION YOU CAN JOIN USDX FORUM GROUP IN THIS LINK: https://groups.io/g/BluQRP
+FOR DX FT8 KIT INFORMATION AND ALL RELATED DISCUSSION YOU CAN JOIN BluQRP FORUM GROUP IN THIS LINK: https://groups.io/g/BluQRP
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 DX FT8 TRANSCEIVER BUILD AND OPERATION GUIDE CAN BE USED FOR OLDER 5 BAND VERSION AND 7 BAND VERSION without Internal Battery. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
