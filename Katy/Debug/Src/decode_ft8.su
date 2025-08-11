@@ -1,0 +1,10 @@
+decode_ft8.c:161:6:display_messages	64	static
+decode_ft8.c:194:6:clear_messages	8	static
+decode_ft8.c:200:5:validate_locator	0	static
+decode_ft8.c:58:5:ft8_decode	728	dynamic
+decode_ft8.c:221:6:clear_log_stored_data	40	static
+decode_ft8.c:335:6:process_selected_Station	16	static
+decode_ft8.c:351:6:clear_CQ_List_box	8	static
+decode_ft8.c:396:5:strindex	20	static
+decode_ft8.c:242:5:Check_Calling_Stations	96	static
+decode_ft8.c:360:5:Check_QSO_Calling_Stations	64	static

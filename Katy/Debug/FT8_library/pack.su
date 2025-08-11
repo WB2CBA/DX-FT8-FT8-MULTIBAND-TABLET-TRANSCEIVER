@@ -1,0 +1,6 @@
+pack.c:28:9:pack28	32	static
+pack.c:119:7:chkcall	16	static
+pack.c:140:10:packgrid	8	static
+pack.c:184:5:pack77_1	24	static
+pack.c:239:6:packtext77	32	static
+pack.c:294:5:pack77	8	static

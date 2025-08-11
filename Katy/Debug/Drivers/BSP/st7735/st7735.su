@@ -1,0 +1,12 @@
+st7735.c:407:10:st7735_GetLcdPixelWidth	0	static
+st7735.c:417:10:st7735_GetLcdPixelHeight	0	static
+st7735.c:273:6:st7735_SetCursor	24	static
+st7735.c:296:6:st7735_WritePixel	24	static
+st7735.c:334:6:st7735_SetDisplayWindow	40	static
+st7735.c:367:6:st7735_DrawHLine	16	static
+st7735.c:238:6:st7735_DisplayOn	16	static
+st7735.c:255:6:st7735_DisplayOff	16	static
+st7735.c:391:6:st7735_DrawVLine	24	static
+st7735.c:320:6:st7735_WriteReg	16	static
+st7735.c:125:6:st7735_Init	32	static
+st7735.c:427:6:st7735_DrawBitmap	24	static

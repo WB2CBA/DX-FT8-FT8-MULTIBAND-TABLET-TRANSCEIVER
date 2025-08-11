@@ -1,0 +1,13 @@
+stm32f7xx_ll_sdmmc.c:213:19:SDMMC_Init	8	static
+stm32f7xx_ll_sdmmc.c:267:10:SDMMC_ReadFIFO	0	static
+stm32f7xx_ll_sdmmc.c:279:19:SDMMC_WriteFIFO	0	static
+stm32f7xx_ll_sdmmc.c:311:19:SDMMC_PowerState_ON	0	static
+stm32f7xx_ll_sdmmc.c:324:19:SDMMC_PowerState_OFF	0	static
+stm32f7xx_ll_sdmmc.c:341:10:SDMMC_GetPowerState	0	static
+stm32f7xx_ll_sdmmc.c:354:19:SDMMC_SendCommand	8	static
+stm32f7xx_ll_sdmmc.c:384:9:SDMMC_GetCommandResponse	0	static
+stm32f7xx_ll_sdmmc.c:401:10:SDMMC_GetResponse	8	static
+stm32f7xx_ll_sdmmc.c:422:19:SDMMC_DataConfig	8	static
+stm32f7xx_ll_sdmmc.c:457:10:SDMMC_GetDataCounter	0	static
+stm32f7xx_ll_sdmmc.c:467:10:SDMMC_GetFIFOCount	0	static
+stm32f7xx_ll_sdmmc.c:482:19:SDMMC_SetSDMMCReadWaitMode	0	static

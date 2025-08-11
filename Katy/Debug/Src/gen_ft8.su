@@ -1,0 +1,9 @@
+gen_ft8.c:61:7:set_cq	80	dynamic
+gen_ft8.c:84:7:set_reply	72	dynamic
+gen_ft8.c:119:6:compose_messages	72	static
+gen_ft8.c:146:6:que_message	56	dynamic
+gen_ft8.c:168:6:clear_qued_message	40	static
+gen_ft8.c:178:6:clear_xmit_messages	8	static
+gen_ft8.c:186:6:Read_Station_File	152	static
+gen_ft8.c:216:6:clear_reply_message_box	8	static
+gen_ft8.c:223:6:SD_Initialize	16	static

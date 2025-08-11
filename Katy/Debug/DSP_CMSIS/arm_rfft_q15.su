@@ -1,0 +1,3 @@
+arm_rfft_q15.c:140:6:arm_split_rfft_q15	48	static,ignoring_inline_asm
+arm_rfft_q15.c:306:6:arm_split_rifft_q15	28	static,ignoring_inline_asm
+arm_rfft_q15.c:87:6:arm_rfft_q15	32	static

@@ -1,0 +1,7 @@
+unpack.c:17:5:unpack28	40	static
+unpack.c:100:5:unpack_type1	32	static
+unpack.c:184:5:unpack_text	56	static
+unpack.c:212:5:unpack_telemetry	32	static
+unpack.c:239:5:unpack_nonstandard	104	static
+unpack.c:306:5:unpack77_fields	32	static
+unpack.c:354:5:unpack77	48	static

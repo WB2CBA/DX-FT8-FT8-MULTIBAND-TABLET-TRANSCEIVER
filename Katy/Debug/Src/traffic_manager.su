@@ -1,0 +1,11 @@
+traffic_manager.c:122:12:tune_Off_sequence	8	static
+traffic_manager.c:88:6:terminate_QSO	8	static
+traffic_manager.c:107:12:ft8_receive_sequence	0	static
+traffic_manager.c:129:10:set_Xmit_Freq	8	static
+traffic_manager.c:99:9:ft8_transmit_sequence	8	static
+traffic_manager.c:80:6:setup_to_transmit_on_next_DSP_Flag	8	static
+traffic_manager.c:33:6:service_QSO_mode	16	static
+traffic_manager.c:49:6:service_Beacon_mode	8	static
+traffic_manager.c:114:9:tune_On_sequence	8	static
+traffic_manager.c:136:10:set_FT8_Tone	0	static
+traffic_manager.c:142:8:set_Rcvr_Freq	4	static

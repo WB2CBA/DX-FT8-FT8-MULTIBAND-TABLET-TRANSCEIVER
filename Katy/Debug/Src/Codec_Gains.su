@@ -1,0 +1,3 @@
+Codec_Gains.c:31:6:Set_HP_Gain	8	static
+Codec_Gains.c:58:6:Set_PGA_Gain	8	static
+Codec_Gains.c:112:6:Set_ADC_DVC	8	static

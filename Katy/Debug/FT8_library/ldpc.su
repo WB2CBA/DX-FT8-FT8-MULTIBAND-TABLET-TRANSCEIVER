@@ -1,0 +1,5 @@
+ldpc.c:127:12:ldpc_check	20	static
+ldpc.c:231:14:fast_tanh.part.0	0	static
+ldpc.c:33:6:pack_bits	16	static
+ldpc.c:58:6:ldpc_decode	96	dynamic
+ldpc.c:143:6:bp_decode	104	dynamic
